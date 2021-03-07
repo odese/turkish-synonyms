@@ -1,0 +1,59 @@
+Naçizane, Önemsiz, değersiz
+Nadide, Görülmemiş, az görülen
+Nafaka, Geçimlilik
+Nafile, Boşuna
+Nağme, Ezgi
+Nahiye, Bölge, bucak
+Nahoş, Tatsız, kötü, yakışıksız
+Nakden, Para olarak
+Nasihat, Öğüt
+Nezaket, İncelik
+
+Naçizane : Önemsiz, değersiz
+Nadide : Görülmemiş, az görülen
+Nafaka : Geçimlilik
+Nafile : Boşuna
+Nağme : Ezgi
+Nahiye : Bölge, bucak
+Nahoş : Tatsız, kötü, yakışıksız
+Nakden : Para olarak
+Nasihat : Öğüt
+Network : Bilişim ağı
+Nezaket : İncelik
+Nickname : Takma ad
+No-frost : Karlanmaz
+Non-stop : Duraksız, molasız
+Nötr : Yansız, tarafsız
+Nüans : İnce ayrım, küçük fark
+
+nick name = kullanıcı adı
+Nick name, Takma isim
+
+Navigatör: Yönleyici
+
+Network : Bilişim Ağı
+New Age : Çağcıl Müzik
+New Wave : Yeni Dalga
+Nodül : Düğümcük, Yumrucuk
+No-Frost : Karlanmaz
+Nominal : Saymaca, İtibari
+Non-Stop: Duraksız, Molasız
+Nostalji: Sıla Özlemi, Özlem, Hasret
+Nostaljik : Özlemli
+Nosyon : Kavrayış
+Notebook : El Bilgisayarı
+Nörtalize : Yansızlaştırılmış,Tarafsızlaştırılmış, Etkisizleştirilmiş
+Nötr: Yansız,Tarafsız
+Nötrelizasyon : Yansızlaştırma, Etkisizleştirme, Tarafsızlaştırma
+Nüans: Çalar,İnce Ayrım
+
+Naçizane : Önemsiz, değersiz
+Nadide : Görülmemiş, az görülen
+Nafaka : Geçimlilik
+Nafile : Boşuna
+Nağme : Ezgi
+Nahiye : Bölge, bucak
+Nahoş : Tatsız, kötü, yakışıksız
+Nakden : Para olarak
+Nasihat : Öğüt
+Nezaket : İncelik

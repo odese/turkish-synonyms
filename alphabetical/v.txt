@@ -1,0 +1,56 @@
+Vazo, Çiçeklik
+Versiyon, Sürüm
+Vesaire, Ve benzeri
+Vesait, Araçlar
+Vestiyer, Askıyeri, askılık
+Video, İzlemece
+Vitrin, Sergen, sergilik
+Viyadük, Aşıt, kuruköprü
+Vize, Görüldü
+Vizyon, Ufuk, ileri görüş
+Vuslat, Kavuşma
+Vuzuh, Açıklık, aydınlık
+Vazo : Çiçeklik
+Vantilatör : Yelveren, estireç
+VCD : Görüntülü yoğun disk (GYD)
+Versiyon : Sürüm
+Vesaire : Ve benzeri
+Vesait : Araçlar
+Vestiyer : Askıyeri, askılık
+Video : İzlemece
+Vitrin : Sergen, sergilik
+Viraj : Dönemeç
+Virman : Aktarım
+Viyadük : Aşıt, kuruköprü
+Vize : Görüldü
+Vizyon : Ufuk, ileri görüş
+Vuslat : Kavuşma
+Vuzuh : Açıklık, aydınlık
+versiyon = sürüm, uyarlama
+Vizite, Ziyaret, misafirlik
+Valör : Geçerlilik
+Valüasyon: Değerleme
+Vanmen Şov : Tek Adam Gösterisi
+Vantilatör: Yelveren, Estireç
+Versiyon : Nüsha, Biçimleme
+Viraj : Büküm, Dönemeç
+Virman: Aktarım
+Viyadük: Köprü, Yol
+Vizyon : Gösterim, Uzak Görüşlülük, Geniş Görüşlülük
+Vokal : Seslik, Ünlü
+Vokalist: Seslikçi
+Volatilite: Belirsizlik Hali
+Volüm : Hacim,Yoğunluk, Ses Yoğunluğu
+
+Vazo : Çiçeklik
+Versiyon : Sürüm
+Vesaire : Ve benzeri
+Vesait : Araçlar
+Vestiyer : Askıyeri, askılık
+Video : İzlemece
+Vitrin : Sergen, sergilik
+Viyadük : Aşıt, kuruköprü
+Vize : Görüldü
+Vizyon : Ufuk, ileri görüş
+Vuslat : Kavuşma
+Vuzuh : Açıklık, aydınlık

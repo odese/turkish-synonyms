@@ -1,0 +1,109 @@
+Radyasyon, Işıma, ışınım
+Rakım, Yükseklik, yükselti
+Rakip, Yarışmacı
+Rampa, Yokuş
+Randevu, Buluşma
+Randıman, Verim
+Rapor: Yazanak
+Rasat, Gözlem
+Rastgele, Gelişigüzel
+Realite, Gerçek, gerçeklik
+Reflektör, Yansıtıcı
+Reyting, İzlenme oranı
+Rezervasyon, Yer ayırtma
+Roof, Çatı
+
+Radyasyon : Işıma, ışınım
+Rakım : Yükseklik, yükselti
+Rakip : Yarışmacı
+Rampa : Yokuş
+Randevu : Buluşma
+Randıman : Verim
+Rant : Getirim
+Rapor: Yazanak
+Rasat : Gözlem
+Rastgele : Gelişigüzel
+Realite : Gerçek, gerçeklik
+Reflektör : Yansıtıcı
+Restorasyon: Onarım, yenileme
+Revize edilmek : Düzeltilmek, yenilenmek.
+Revize etmek : Düzeltmek, yenilemek.
+Revizyon : Düzeltme, yenileme, yenilenme
+Reyting : İzlenme oranı
+Rezervasyon : Yer ayırtma
+Rezidans : Konut
+Roof : Çatı
+Rövanş : İkinci karşılaşma
+
+randıman = verim
+reaksiyon = tepkime
+recycling = geri dönüşüm
+relaks olmak = rahatlamak
+revize etmek = yenilemek
+Revize etmek, Gözden geçirmek
+
+Radikal : Köklü, Kökten, Köktenci
+Radikalizm : Köktencilik
+Radyoterapi : Işın Tedavisi
+Radyoterapist: Işın Tedavi Uzmanı
+Rafting: Salcılık, Sal Yarışı
+Rambursman : Ödeme, Geri Ödeme
+Rant: Getirim
+Rantabl: Verimli, Getirimli
+Rantiye : Getirimci
+Raportör: Rapor Yazıcı
+Reality-Show: Gerçekleme (Gösterisi)
+Realizasyon : Gerçekleştirme, Kar Amaçlı Satış
+Reasürans: İkili Sigorta
+Reel : Gerçek
+Reenkarnasyon : Ruh Göçü
+Reesyon : İkinci Kırdırma
+Referandum : Halk Oylaması
+Referans: İletme,Güven Tanıklığı, Yollama, Kaynak, Kaynak Gösterme
+Referans Mektubu: Tavsiye Mektubu
+Reflektif: Yansıtıcı
+Refüj : Orta Kaldırım
+Regülasyon: Tüzük, Yönetmelik
+Regülatör: Düzenleyici
+Rehabilitasyon : İyileştirme
+Reklam Spotu: Reklam Işıntısı
+Rekolte : (Toplam) Ürün, (Yıllık) Ürün
+Rekonstrüksiyon : Yeniden Kurma
+Rekreasyon : Eğlendinlen Alanı
+Remix: Bindirim
+Repo: Geri Alım Vaadi İle Satım
+Resepsiyon: Kabul Töreni, Kabul Yeri
+Resesyon: Durgunluk
+Restorasyon: Yenileme, Onarım
+Revalüasyon: Değer Artırma
+Reverse Repo: Ters Repo
+Revize Edilmek : Düzeltilmek, Yenilenmek
+Revize Etmek: Düzeltmek Yenilemek
+Revizyon : Düzeltme, Yenileme, Yenilenme
+Revizyonist : Değişimci
+Reyting: Değerlendirme, Takdir
+Rezonans: Tınlaşım
+Ribaunt: Dönen Top
+Ribaunt Almak : Dönen Topu Kapmak
+Ribaunt Mücadelesi: Dönen Top Mücadelesi
+Ribaunta Çıkmak: Dönen Topa Çıkmak
+Ritüel: Ayinle İlgili
+Rölanti : Yavaşlatılmış
+Rövanş : İkinci Karşilaşma
+Rövanşı Almak : İkinci Karşılaşmayı Kazanmak
+Röveşata : Makaslama, Makaslama Vuruş
+
+Radyasyon : Işıma, ışınım
+Rakım : Yükseklik, yükselti
+Rakip : Yarışmacı
+Rampa : Yokuş
+Randevu : Buluşma
+Randıman : Verim
+Rapor: Yazanak
+Rasat : Gözlem
+Rastgele : Gelişigüzel
+Realite : Gerçek, gerçeklik
+Reflektör : Yansıtıcı
+Reyting : İzlenme oranı
+Rezervasyon : Yer ayırtma
+Roof : Çatı

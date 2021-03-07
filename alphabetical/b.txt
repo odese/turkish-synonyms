@@ -1,0 +1,123 @@
+Bahir, Deniz
+Baht, Yazgı, kader
+Bakiye, Kalan
+Bandaj, Sargı
+Banliyo, Çevre, yörekent
+Bariyer, Engel
+Bariz, Belirgin, açık
+Bariyer, Engebe
+Beraat, Aklanma
+Best-seller, Çok satan
+Bilboard, Duyuru tahtası
+Bilhassa, Özellikle
+Biyografi, Öz geçmiş
+Bizzat, Kendisi
+Blöf, Kandırmaca
+Bodyguard, Koruma
+Bone, Başlık
+Bonkör, Eliaçık
+Botanik, Bitkibilim
+Boykot, Direniş
+Branş, Dal, kol
+Brifing, Bilgilendirme, Sunu
+Brüt, Kesintisiz
+Buldozer, Yoldüzler
+Burjuva, Kentsoylu
+Burjuvazi, Kentsoyluluk
+Buton, Düğme
+
+Bahir : Deniz
+Baht : Yazgı, kader
+Bakiye : Kalan
+Bandaj : Sargı
+Bandrol : Denetim pulu
+Banliyo : Çevre, yörekent
+Banner : Reklam bandı, reklamlık
+Bariyer : Engel
+Bariz : Belirgin, açık
+Bariyer : Engebe
+Barkot : Çizgi im
+Beraat : Aklanma
+Best-seller : Çok satan
+Bilboard : Duyuru tahtası
+Bilhassa : Özellikle
+Biyografi : Öz geçmiş
+Bizzat : Kendisi
+Blender : Karıştırıcı
+Blöf : Kandırmaca
+Bodyguard : Koruma
+Bone : Başlık
+Bonkör : Eliaçık
+Botanik : Bitkibilim
+Boykot : Direniş
+Branş : Dal, kol
+Brifing : Bilgilendirme, sunu
+Brunch : Kuşluk yemeği
+Brüt : Kesintisiz
+Buldozer : Yoldüzler
+Burjuva : Kentsoylu
+Burjuvazi : Kentsoyluluk
+Buton : Düğme
+By-pass : Damar aktarma
+
+bodyguard = koruma
+bye bye = hoşçakal
+Bodyguard, Koruma 
+Bye bye, Güle güle
+Bilendır, Karıştırıcı
+Best seller, En çok satan 
+
+Back Ground : Arka Plan, Geçmiş
+
+Bandrol : Denetim Pulu,Denetim Bağı
+Bariyer : Engel
+Bar-Kot : Çizgi İm
+Baz : Temel, Taban
+Best-Seller: Çoksatart
+Bienal: Yıl Aşırı
+Bilboard: Duyuru Tahtası, İlan Tahtası
+Blender : Karıştırıcı
+Blokaj : Tutmak, Durdurmak
+Bloke Para: Tutulmuş Para
+Boarding Cart : Uçuş Kartı
+Bodyguard : Koruma
+Bodyguardlık : Korumalık
+Bounspas : Sektirme Pas
+Branç: Kuşluk Yemegi
+Branş: Dal, Şube, Kol
+Brick Game : Tuğla Oyunu
+Brifing : Bilgilendirme
+Brifing Almak : Bilgilendirilmek, Bilgi Almak
+Brifing Vermek : Bilgilendirmek Bilgi Vermek
+Brokır: Simsar
+Bungee-Jumping: Zıpzıp Atlama
+Business Class: İşlik Orun
+By-Pass: Damar Aktarma,Devre Dışı Bırakma
+
+Bahir : Deniz
+Baht : Yazgı, kader
+Bakiye : Kalan
+Bandaj : Sargı
+Banliyo : Çevre, yörekent
+Bariyer : Engel
+Bariz : Belirgin, açık
+Bariyer : Engebe
+Beraat : Aklanma
+Best-seller : Çok satan
+Bilboard : Duyuru tahtası
+Bilhassa : Özellikle
+Biyografi : Öz geçmiş
+Bizzat : Kendisi
+Blöf : Kandırmaca
+Bodyguard : Koruma
+Bone : Başlık
+Bonkör : Eliaçık
+Botanik : Bitkibilim
+Boykot : Direniş
+Branş : Dal, kol
+Brifing : Bilgilendirme, Sunu
+Brüt : Kesintisiz
+Buldozer : Yoldüzler
+Burjuva : Kentsoylu
+Burjuvazi : Kentsoyluluk
+Buton : Düğme

@@ -1,0 +1,25 @@
+Ufuk, Çevren
+Uhde, Görev, sorumluluk
+Ultrasonik, Sesüstü
+Uzuv, Örgen
+Ultraviyole, Morötesi
+
+Ufuk : Çevren
+Uhde : Görev, sorumluluk
+Ultrasonik : Sesüstü
+Undercover : Örtülü
+Underground : Yer altı
+Uzuv : Örgen
+Ultraviyole : Morötesi
+
+Undercover: Örtülü
+Underground Müzik: Yeraltı Müziği
+Underground Sanat: Yer Altı Sanatı
+Underground Sinema: Yer Altı Sineması
+Underwriting: Üstlenim
+
+Ufuk : Çevren
+Uhde : Görev, sorumluluk
+Ultrasonik : Sesüstü
+Uzuv : Örgen
+Ultraviyole : Morötesi

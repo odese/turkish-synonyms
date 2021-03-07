@@ -1,0 +1,250 @@
+Abes, Anlamsız, saçma
+Abluka, Kuşatma, çevirge
+Abone, Sürdürümcü
+Absürt, Saçma, usdışı
+Adapte, Uyum
+Adi, Bayağı, sıradan
+Adisyon, Hesap
+Agresif, Saldırgan
+Ahize, Almaç
+Aidat, Ödenti
+Air bag, Hava yastığı
+Ajanda, Andaç
+Aksiyon, Eylem, edim
+Aktif, Etkin
+Aktivite, Etkinlik
+Aktüel, Güncel
+Aleyhtar, Karşıtçı, karşı görüşlü
+Alfabe, Abece
+Alternatif, Seçenek
+Amatör, Özengen, deneyimsiz
+Ambargo, Engelleyim
+Ambiyans, Hava
+Amblem, Belirtke
+Ambulans, Cankurtaran
+Ampermetre, Akımölçer
+Analitik, Çözümleyici
+Analiz, Çözümleme
+Anarşi, Başsızlık, kargaşa
+Anatomi, Gövdebilim
+Anekdot, Öykü
+Angarya, Yüklenti
+Animasyon, Canlandırma
+Anons, Duyuru
+Anket, Sormaca
+Anons, Sesli duyuru
+Ansiklopedi, Bilgilik
+Antetli, Başlıklı
+Antipatik, Sevimsiz
+Antifiriz, Donma önleyici
+Antreman, Alıştırma, çalışım
+Antrenör, Çalıştırıcı
+Argüman, Donatı, kanıt, dayanak
+Arkeoloji, Kazıbilim
+Aroma, Hoş koku
+Arşiv, Belgelik
+Artist, Sanatçı, oyuncu
+Asayiş, Düzenlilik, güvenlik
+Asistan, Yardımcı
+Asparagas, Uydurma
+Astronomi, Gökbilim
+Ateizm, Tanrıtanımazlık
+Atıf, 1-Yöneltme 2-İlişkili bulma 3-Gönderme
+Atmosfer, Havayuvarı
+Atom, Ögecik
+Atölye, İşlik
+Avans, Öndelik
+
+Abes : Anlamsız, saçma
+Abluka : Kuşatma, çevirge
+Abone : Sürdürümcü
+Absürt : Saçma, usdışı
+Adapte : Uyum
+Adi : Bayağı, sıradan
+Adisyon : Hesap
+Agresif : Saldırgan
+Ahize : Almaç
+Aidat : Ödenti
+Air bag : Hava yastığı
+Air-conditioner: Havalandırma
+Ajanda : Andaç
+Aksiyon : Eylem, edim
+Aktif : Etkin
+Aktivite : Etkinlik
+Aktüel : Güncel
+Aleyhtar : Karşıtçı, karşı görüşlü
+Alfabe : Abece
+Alternatif : Seçenek
+Amatör : Deneyimsiz
+Ambiyans : Hava
+Amblem : Belirtke
+Ambulans : Cankurtaran
+Ampermetre : Akımölçer
+Analitik : Çözümleyici
+Analiz : Çözümleme
+Anarşi : Başsızlık, kargaşa
+Anatomi : Gövdebilim
+Anekdot : Öykü
+Angarya : Yüklenti
+Animasyon : Canlandırma
+Anons : Duyuru
+Anket : Sormaca
+Anons : Sesli duyuru
+Ansiklopedi : Bilgilik
+Antetli : Başlıklı
+Antipatik : Sevimsiz
+Antifiriz : Donma önleyici
+Antreman : Alıştırma, çalışım
+Antrenör : Çalıştırıcı
+Aranje etmek : Düzenlemek
+Argüman : Donatı, kanıt, dayanak
+Arkeoloji : Kazıbilim
+Aroma : Hoş koku
+Arşiv : Belgelik
+Artist : Sanatçı, oyuncu
+Asayiş : Düzenlilik, güvenlik
+Asistan : Yardımcı
+Asparagas : Uydurma
+Astronomi : Gökbilim
+Ateizm : Tanrıtanımazlık
+Atıf : Yöneltme, ilişkili bulma, gönderme
+Atmosfer : Havayuvarı
+Atom : Ögecik
+Atölye : İşlik
+Avans: Öndelik
+
+absürt = saçma
+adapte olmak = uyum sağlamak
+adisyon = hesap fişi
+ambiyans = ortam, hava
+analiz = çözümleme
+anons etmek = duyurmak
+antipatik = sevimsiz, itici
+
+admin: yönetici
+
+adaptasyon = uyarlama
+ambulans= cankurtaran
+antrenör = çalıştırıcı
+alternatif = seçenek
+aksiyon = macera
+Absürt, Saçma, gülünç
+Adisyon, Hesap fişi
+Anons etmek, Duyurmak, bildirmek, ilan etmek
+Ambiyans, Hava, ortam 
+
+Absürd : Saçma, Anlamsız
+Absürd Komedi : Saçma, Komedi
+Adisyon : Hesap
+Agreman : Uygunluk
+Air-Conditioned : Havalandırmalı
+Air-Conditioner: Havalandırma
+Akreditif : Güven Yazısı, Güven Hesabı
+Akredite Olmak: Güvenilirliği Onaylanmış Olmak
+Alakart: Seçmeli Yemek
+Alan Markajı: Alan Tutma
+Amblem: Belirtke
+Angajman: Bağlantı
+Angaje: Bağlanmış
+Angaje Etmek: Bağlamak
+Angaje Olmak: Bağlanmak, Üstlenmek
+Animasyon: Canlandırma
+Animatör : Canlandırıcı
+Ankesörlü Telefon: Kutulu Telefon
+Ansambl : Topluluk
+Anti-Damping : Karşı Düşürüm
+Antipati : İticilik, Sevimsizlik, Soğukluk
+Antipati Duymak: Kanı Kaynamamak
+Antipatik: Sevimsiz, İtici, Soğuk
+Antre: Giriş
+Aranje Etmek: Düzenlemek, Düzenlenmek
+Aranjman: Düzenleme
+Aranjör: Düzenlemeci
+Arbitraj: Ara Kazanç
+Argüman: Kanıt, Delil
+Asist Etmek: Yardım Etmek
+Asist: Yardımcısı
+Asistlik : Yardımcılık
+Aşağılık Kompleksi : Aşağılık Duygusu
+Aut: Dış
+Auta Atmak: Dışa Atmak
+Auta Çıkmak (Gitmek): Dışa Çıkmak
+Aut Atışı (Yapmak): Dış Atışı (Yapmak)
+Aut Çizgisi: Dış Çizgisi
+Agresif : Saldırgan, Mütecaviz, Girişken, Yırtıcı
+Akualand : Su Bahçesi
+Akuistik : Yankı Bilimi, Yankılanım
+Almanak : Yıllık
+Amortisman: Aşınma Payı, Yıpranma Payı
+Ampirik: Eneye Dayalı
+Anakronizm : Tarih Yanılgısı
+Anchorman : Ana Haber Sunucusu
+Anektot: Fıkra, Hikayecik
+Anomali: Aykırılık
+Antet: Başlık
+Antikite : İlk Çağ, Eskilik
+Aperatif : Ön İçki
+Aroma: Hoş Koku,
+Aromatik : Hoş Kokulu
+Arometrapi: Koku Tedavisi
+Artikülasyon : Boğumlanma
+Asparagas: Şişirme Haber
+Avangart: Öncü
+Avans: Öndelik
+
+Abes : Anlamsız, saçma
+Abluka : Kuşatma, çevirge
+Abone : Sürdürümcü
+Absürt : Saçma, usdışı
+Adapte : Uyum
+Adi : Bayağı, sıradan
+Adisyon : Hesap
+Agresif : Saldırgan
+Ahize : Almaç
+Aidat : Ödenti
+Air bag : Hava yastığı
+Ajanda : Andaç
+Aksiyon : Eylem, edim
+Aktif : Etkin
+Aktivite : Etkinlik
+Aktüel : Güncel
+Aleyhtar : Karşıtçı, karşı görüşlü
+Alfabe : Abece
+Alternatif : Seçenek
+Amatör : Özengen, deneyimsiz
+Ambargo : Engelleyim
+Ambiyans : Hava
+Amblem : Belirtke
+Ambulans : Cankurtaran
+Ampermetre : Akımölçer
+Analitik : Çözümleyici
+Analiz : Çözümleme
+Anarşi : Başsızlık, kargaşa
+Anatomi : Gövdebilim
+Anekdot : Öykü
+Angarya : Yüklenti
+Animasyon : Canlandırma
+Anons : Duyuru
+Anket : Sormaca
+Anons : Sesli duyuru
+Ansiklopedi : Bilgilik
+Antetli : Başlıklı
+Antipatik : Sevimsiz
+Antifiriz : Donma önleyici
+Antreman : Alıştırma, çalışım
+Antrenör : Çalıştırıcı
+Argüman : Donatı, kanıt, dayanak
+Arkeoloji : Kazıbilim
+Aroma : Hoş koku
+Arşiv : Belgelik
+Artist : Sanatçı, oyuncu
+Asayiş : Düzenlilik, güvenlik
+Asistan : Yardımcı
+Asparagas : Uydurma
+Astronomi : Gökbilim
+Ateizm : Tanrıtanımazlık
+Atıf : 1-Yöneltme 2-İlişkili bulma 3-Gönderme
+Atmosfer : Havayuvarı
+Atom : Ögecik
+Atölye : İşlik
+Avans: Öndelik

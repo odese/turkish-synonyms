@@ -1,0 +1,10 @@
+Walkman : Gezerçalar, yürürçalar
+Web : Ağ
+Webmaster : Site yöneticisi, ağ yöneticisi
+Web sayfası : ağ sayfası.
+Web sitesi : ağ sitesi.
+Workout : Alıştırma, idman, antrenman
+Workshop : Fikir üretme, fikir üretme toplantısı
+
+Walkman: Yürür Çalar, Gezer Çalar
+Workshop : Fikir Üretme, Fikir Üretme Toplantısı

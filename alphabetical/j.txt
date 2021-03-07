@@ -1,0 +1,41 @@
+Jaluzi, Şerit perde
+Jenerasyon, Soy, kuşak
+Jeneratör, Üreteç
+Jenerik, Tanıtımık
+Jenosit, Soy kırım
+Jeofizik, Yer fiziği
+Jeolog, Yerbilimci
+Jeoloji, Yerbilim
+
+Jakuzi : Sağlık havuzu
+Jaluzi : Şerit perde
+Jenerasyon : Kuşak , nesil
+Jeneratör : Üreteç
+Jenerik : Tanıtımık
+Jenosit : Soy kırım
+Jeofizik : Yer fiziği
+Jeolog : Yerbilimci
+Jeoloji : Yerbilim
+Joystik : Yönetme kolu
+
+jenerasyon = nesil
+Jenerasyon,	Kuşak, nesil
+
+Jakoben : Tepeden İnmeci
+
+Jakobenizm : Tepeden İnmecilik
+Jakuzi : Sağlık Havuzu
+Jalüzi : Şerit Perde
+Jenerasyon : Kuşak, Nesil
+Jenerik : Tanıtımlık, Tanıtma Yazısı
+Jogging: Koşmaca
+Joystick : Yönetme Kolu
+
+Jaluzi : Şerit perde
+Jenerasyon : Soy, kuşak
+Jeneratör : Üreteç
+Jenerik : Tanıtımık
+Jenosit : Soy kırım
+Jeofizik : Yer fiziği
+Jeolog : Yerbilimci
+Jeoloji : Yerbilim

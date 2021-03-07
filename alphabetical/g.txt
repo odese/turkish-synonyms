@@ -1,0 +1,42 @@
+Garp, Batı
+Gıyabi, Yokken
+Global, Küresel
+Grafik, Çizge, çizenek
+Gramer, Dilbilgisi
+Grev, İşbırakımı
+Gurup, Gün batımı
+Güruh, Toplaşım, kalabalık
+Güya, Sanki, sözde
+
+Gala: Ön gösterim
+Garp : Batı
+Gıyabi : Yokken
+Global : Küresel
+Grafik : Çizge, çizenek
+Gramer : Dilbilgisi
+Grev : İşbırakımı
+Gurme : Tatbilir
+Gurup : Gün batımı
+Güruh : Toplaşım, kalabalık
+Güya : Sanki, sözde
+
+global = küresel
+
+Gardıfren : Firen Görevlisi, Firenci
+Garnitür : Yanlık, Bezenti
+Global: Küresel, Dünya Çapında
+Globalleşme: Küreselleşme
+Global Olarak: Yuvarlak Olarak
+Grado : Derece, Düzey, Seviye
+Guard : Oyun Kurucu
+Gurme : Tatbilir
+Gusto: Zevk
+Garp : Batı
+Gıyabi : Yokken
+Global : Küresel
+Grafik : Çizge, çizenek
+Gramer : Dilbilgisi
+Grev : İşbırakımı
+Gurup : Gün batımı
+Güruh : Toplaşım, kalabalık
+Güya : Sanki, sözde

@@ -1,0 +1,94 @@
+Obje: Nesne
+Ofansif, Atak
+Offline, Çevrimdışı
+Ofis, İşyeri
+Ofset, Düzbaskı
+Okey(lemek), Onay, onaylamak
+Oley, Yaşa!
+Online, Çevrimiçi
+Optima, En uygun
+Optimist, İyimser
+Ordövr, Ön yemek
+Organizasyon, Düzen, düzenleme
+Orijinal, Özgün
+Otistik, İçe kapanık
+Otokritik, Özeleştiri
+Obje: Nesne
+Ofansif : Atak
+Offline : Çevrim dışı
+Off the record : Yayın dışı
+Ofis : İşyeri
+Ofsayt : Açığa düşme
+Ofset : Düzbaskı
+Okey(lemek) : Onay, onaylamak
+Oley : Yaşa!
+Ombudsman : Kamu denetçisi
+Online : Çevrim içi
+Optima : En uygun
+Optimist : İyimser
+Optimizasyon: En iyi duruma getirmek
+Ordövr : Ön yemek
+Organizasyon : Düzenleme
+Orijinal : Özgün
+Oryantasyon : Alıştırma, uyum
+Otistik : İçe kapanık
+Otokritik : Öz eleştiri
+Overclock :  Hız aşırtma
+objektif = nesnel, tarafsız
+okey = tamam
+okeylemek = onaylamak
+online = çevrimiçi
+opsiyonel = seçmeli
+optimist = iyimser
+online = çevrimiçi
+offline = çevrimdışı
+Objektif, Tarafsız, nesnel
+Okeylemek, Onaylamak
+
+Obsesif : Takınçlı
+Obsesyon : Takınç
+Oditoryum : Dinleme Salonu
+Ofans : Hücum
+Ofansif: Hücuma Dayalı
+Off Shore: Kıyı Bankacılığı
+Off The Record : Yayın Dışı
+Ofsayt : Açığa Düşme
+Ofsayt Gerekçesi : Açığa Düşürme Gerekçesi
+Ofsayt Taktiği: Açığa Düşürme Taktiği
+Ofsayta Düşmek (Düşürmek) : Açığa Düşmek (Düşürmek)
+Ofsaytı Bozmak: Açığa Düşürememek
+Oligopol : Takım Tekeli
+Ombudsman : Kamu Denetçisi
+On Screen : Ekranda
+On-Line: Çevrim İçi
+Oportünist: Fırsatçı
+Oportünizm: Fırsatçılık
+Opsiyon : Seçme Yetkisi, Ödeme Süresi, Seçme Süresi
+Optimal : En Uygun
+Optimist : İyimser
+Optimizasyon : En Uygun Duruma Getirme
+Optimize Etmek : En Uygun Duruma Getirmek
+Optimizm : İyimserlik
+Optimum : Uygun Değer
+Ordövr : Yemek Altı, Ön Yemek
+Otomasyon : Kendiişlerlik, Otomatik, Kendiişler
+Out (Olmak): Tutulmak, Tutulmaz Olmak, Tutulmayanlar, Tutulmaz Olanlar
+Outlet Center : Fabrikadan Satış Merkezi
+Outsider : Dış Hissedar
+Overnight : Gecelik, Bir Gecelik
+
+Obje: Nesne
+Ofansif : Atak
+Offline : Çevrimdışı
+Ofis : İşyeri
+Ofset : Düzbaskı
+Okey(lemek) : Onay, onaylamak
+Oley : Yaşa!
+Online : Çevrimiçi
+Optima : En uygun
+Optimist : İyimser
+Ordövr : Ön yemek
+Organizasyon : Düzen, düzenleme
+Orijinal : Özgün
+Otistik : İçe kapanık
+Otokritik : Özeleştiri

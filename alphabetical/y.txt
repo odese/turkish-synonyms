@@ -1,0 +1,14 @@
+Yakamoz, Parıltı
+Yeknesak, Tekdüze
+Yekûn, Toplam
+Yevmiye, Gündelik
+
+Yakamoz : Parıltı
+Yeknesak : Tekdüze
+Yekûn : Toplam
+Yevmiye : Gündelik
+
+Yakamoz : Parıltı
+Yeknesak : Tekdüze
+Yekûn : Toplam
+Yevmiye : Gündelik

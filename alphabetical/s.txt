@@ -1,0 +1,255 @@
+Sabotaj, Kundaklama
+Sansür, Sıkıdenetim
+Sauna, Buhar banyosu
+Sav, Tez
+Seans, Oturum, kez, süre
+Sekreter, Yazman
+Sembol: Simge
+Sembolik, Simgesel
+Seminer, Topluçalışım
+Sempati, Cana yakınlık
+Sempatik, Sevimli, cana yakın
+Sempatizan, Duygudaş
+Senkron, Eşzaman
+Sentez, Bireşim
+Server, Sunucu
+Sezon, Sürem
+Show-Şov, Gösteri
+Showman, Gösteri adamı
+Simültane, Eşzamanlı
+Sirkülasyon, Dolaşım
+Sistem, Dizge
+Skandal, Utanca
+Skor, Sonuç
+Skor board, Sonuç tahtası
+Slayt, Saydam, yansı
+Slogan, Savsöz
+Software, Yazılım
+Solaryum, Güneşletici
+Sorti, Çıkış
+Sosyal, Toplumsal
+Sosyalist, Toplumcu
+Sosyolog, Toplum bilimci
+Sömestr, Yarıyıl, dönem
+Spesifik, Özgül
+Spesiyal, Özel
+Spiker, Sunucu
+Sponsor, Destekleyici
+Staj, Uygulamalı öğrenim, yetişim
+Star, Yıldız
+Start, Başlangıç
+Start Almak, Başlamak
+Stil, Biçem
+Stok, Yığım
+Stres, Gerilim
+Süper, Üstün, en büyük
+Sürpriz, Şaşırtı
+
+Sabotaj : Kundaklama
+Sansür : Sıkıdenetim
+Sauna : Buhar banyosu
+Seans : Oturum, kez, süre
+Sekreter : Yazman
+Selfie : Özçekim
+Self-servis : Seçal
+Sembol : Simge
+Sembolik : Simgesel
+Seminer : Topluçalışım
+Sempati : Cana yakınlık
+Sempatik : Sevimli, cana yakın
+Sempatizan : Duygudaş
+Senkron : Eşzaman
+Sentez : Bireşim
+Server : Sunucu
+Sezon : Sürem
+Show-Şov : Gösteri
+Showman : Gösteri adamı
+Simülatör : Öğrencelik
+Simültane : Eşzamanlı
+Sirkülasyon : Dolaşım
+Sistem : Dizge
+Skandal : Utanca
+Skor : Sonuç
+Skor board : Sonuç tahtası
+Slayt : Saydam, yansı
+Slogan : Savsöz
+Software : Yazılım
+Solaryum : Güneşletici
+Sorti : Çıkış
+Sosyal : Toplumsal
+Sosyalist : Toplumcu
+Sosyolog : Toplum bilimci
+Sömestr : Yarıyıl, dönem
+Spesifik : Özgül
+Spesiyal : Özel
+Spiker : Sunucu
+Sponsor : Destekleyici
+Stabil : Oturmuş, istikrarlı, sabit
+Staj : Uygulamalı öğrenim, yetişim
+Star : Yıldız
+Start : Başlangıç
+Start Almak : Başlamak
+Stil : Biçem
+Stok : Yığım
+Stres : Gerilim
+Süper : Üstün, en büyük
+Sürpriz : Şaşırtı
+
+save etmek = kaydetmek
+security = güvenlik
+sempatik = sevimli, canayakın
+spontane = kendiliğinden
+star = yıldız
+start almak = başlamak
+
+server = sunucu
+
+slayt = sunu
+spam = gereksiz
+Star, Yıldız
+Spontane, Doğal, kendiliğinden olan, düşünmeden yapılan
+Start, Çıkış ya da başlama
+Selfie, Öz çekim 
+Security, Güvenlik
+
+Sabotaj : Baltalama
+
+Sabote Etmek : Baltalamak, Kundaklamak
+Salvo : Yaylım Ateş
+Sanitasyon: Sağlık Koruma
+Sansasyon : Dalgalanma, Dalgalandırma
+Sansasyonel : Dalgalandırıcı
+Santra : Orta Yuvarlak
+Santrifüj: Merkezkaç
+Satrafor: Orta Uç
+Sauna : Buharlı Hamam
+Seans : Oturum
+Seksiyon: Bölüm
+Self-Determinasyon: Geleceklik Hakkı
+Self-Servis: Seçal
+Seminer: Toplu Çalışma
+Sempati : Yakınlık, Cana Yakınlılık, Sevimlilik
+Sempati Duymak: Kanı Kaynamak
+Sempatik: Sevimli, Cana Yakın
+Sempozyum : Bilgi Şöleni
+Semptom: Belirti
+Sendrom : Hastalık Tablosu, Sıkıntı
+Sensor: Duyar
+Sentır: Merkez, İletişim Merkezi, Tam Bakim Merkezi, Ticaret Merkezi
+Sezon: Mevsim
+Shower Screen: Duş Kabini, Banyo Kabini, Duşakabin
+Siesta: Öğle Uykusu
+Simultane: Anında
+Simülasyon: Benzetim
+Sinerji : Görevdeşlik
+Single: Tekli
+Sipekülatif: Havadan, Açıktan, Düşüntülü
+Sirkülasyon: Dolaşım, Hava Dolaşımı, Para Dolaşımı
+Sirküler : Genelge,Duyurum, İmza Sirküleri, İmza Belgesi
+Sit-Com : Durum Güldürüsü
+Skala : Yelpaze, Gösterge Çizelgesi
+Skeç : Oyunca
+Skor: Durum, Sayı
+Skorboard : Sayı Göstergesi, Sayı Levhası
+Slogan: Uran
+Smaç : Çivileme,Küt İnme
+Smaçör : Çivileyici, Küt İnici
+Snack-Bar : Atıştırma Yeri Atıştırmalık
+Snobizm: Züppelik
+Snop: Züppe
+Sofistike: Yanıltıcı, Karmaşık, Bilmiş
+Software: Yazılım
+Solaryum: Güneş Odası
+Sorti: Çıkış
+Sorti Yapmak: Çıkış Yapmak
+Spekülasyon : Düşüntü,Vurgunculuk
+Spekülatör: Vurguncu
+Spesifik : Çok Özel, Özellikli
+Spesiyal : Özel, Kendine Özgü
+Spesiyalite: Özel Yemek
+Sponsor : Destekleyici
+Spontane : Kendiliğinden
+Spot: Peşin
+Spot Lambası : Işıntı Lambası
+Spot Satış: Peşin Satış ,Işıntı
+Spread : Fark
+Sprint: Kısa Koşu
+Squash : Duvar Topu
+Stabil: Oturmuş, İstikrarli, Sabit
+Stabilizasyon : İstikrar, Oturmuşluk, Sabitlik
+Stabilize : Oturtulmuş, Sabitleştirilmiş
+Stabilize Yol: Berkitme Yol
+Stagfasyon: Durgun, Şişkinlik
+Stand-By: Destek, Yedekte
+Stand-Up: Komedyenler, Sözçalar
+Stant : Sergilik
+Star: Yıldız
+Start: Başla
+Start Vermek: Başlatmak
+Start Yeri: Başlama Yeri
+Statüko: Mevcut Durum, Var Olan Durum
+Step : Hatalı Yürüme
+Steril: Arınık,Verimsiz
+Sticker : Çıkartma
+Stopaj : Ön Kesinti
+Stoper: Durdurucu
+Stop-Loss: Zarar Kesme
+Strapless: Askısız
+Stres : Gerginlik
+Strese Girmek: Gerginliğe Girmek
+Stresli: Gergin
+Stretching: Germe
+Suare: Akşamlik
+Sübvanse Etmek : Desteklemek
+Sübvansiyon: Destekleme
+Süpermarket, Hipermarket, Grosmarkets : Satış Sarayı
+Süpervizör: Üst Denetçi
+Swap: Takaslama
+Swift : Hızlı
+
+Sabotaj : Kundaklama
+Sansür : Sıkıdenetim
+Sauna : Buhar banyosu
+Sav : Tez
+Seans : Oturum, kez, süre
+Sekreter : Yazman
+Sembol: Simge
+Sembolik : Simgesel
+Seminer : Topluçalışım
+Sempati : Cana yakınlık
+Sempatik : Sevimli, cana yakın
+Sempatizan : Duygudaş
+Senkron : Eşzaman
+Sentez : Bireşim
+Server : Sunucu
+Sezon : Sürem
+Show-Şov : Gösteri
+Showman : Gösteri adamı
+Simültane : Eşzamanlı
+Sirkülasyon : Dolaşım
+Sistem : Dizge
+Skandal : Utanca
+Skor : Sonuç
+Skor board : Sonuç tahtası
+Slayt : Saydam, yansı
+Slogan : Savsöz
+Software : Yazılım
+Solaryum : Güneşletici
+Sorti : Çıkış
+Sosyal : Toplumsal
+Sosyalist : Toplumcu
+Sosyolog : Toplum bilimci
+Sömestr : Yarıyıl, dönem
+Spesifik : Özgül
+Spesiyal : Özel
+Spiker : Sunucu
+Sponsor : Destekleyici
+Staj : Uygulamalı öğrenim, yetişim
+Star : Yıldız
+Start : Başlangıç
+Start Almak : Başlamak
+Stil : Biçem
+Stok : Yığım
+Stres : Gerilim
+Süper : Üstün, en büyük
+Sürpriz : Şaşırtı

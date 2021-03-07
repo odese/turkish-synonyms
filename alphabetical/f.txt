@@ -1,0 +1,119 @@
+Faal, Çalışkan, etkin
+Fahri, Onursal
+Fail, Yapan, eden
+Faiz, Getiri
+Faktör, Etken
+Final, Son
+Fanatizm, Bağnızlık
+Fasıl, Bölüm
+Federal, Birleşik
+Finish, Bitiş, varış
+Full, Tam
+Full Time, Tam gün
+Fullemek, Doldurmak
+
+Faal : Çalışkan, etkin
+Factoring : Aracı, aracılık
+Fahri : Onursal
+Fail : Yapan, eden
+Faiz : Getiri
+Faktör : Etken
+Faks: Belgegeçer, belgeç
+Final : Son
+Fanatizm : Bağnazlık
+Fasıl : Bölüm
+Federal : Birleşik
+Fermantasyon : Mayalanma
+Finish : Bitiş, varış
+Firmware: Bellenim
+First lady: Başhanımefendi
+Fitness center: Sağlıklı yaşam merkezi
+Fotokopi : Tıpkıçekim
+Frame : Çerçeve
+Franchising: İsim hakkı
+Full : Tam
+Full Time : Tam gün, tam zamanlı
+Fullemek : Doldurmak
+
+feedback = geri bildirim, geri besleme
+finish = varış, bitiş
+full= dolu,tam
+full time = tam gün
+
+frambuaz: böğürtlen
+
+flash disk = taşınabilir bellek
+Full, Tam, dolu
+Formen, Ustabaşı
+Fragman, Parça, kısım, bölüm
+Feedback, Geri bildirim
+
+Factoring: Aracı,Aracılık
+
+Fair-Play : Dürüst Oyun
+Faks: Belgegeçer
+Fakslamak: Belgegeçerle Göndermek
+Fast Break : Hızlı Akın, Hızlı Hücum
+Faul : Hata
+Faul Vuruşu: Hata Vuruşu
+Fauna: Hayvan Varlığı
+Fenomen: Görüngü
+Fenomenizm: Görüngücülük
+Fermantasyon : Mayalanma
+Festfud : Ayak Üstü,Hazır Yemek
+Figürasyon: Biçimleme
+Fiklibustering: Engelleme
+Fiks Menü : Tek Liste
+Fikstür: Karşilaşma Takvimi, Takvim
+Fikşın: Kurgu, Bilim-Kurgu
+Fiktif : Kurmaca
+Filtre: Süzek
+Final : Sonuç, Sonuç Karşılaşması
+Final Four : Son Dört
+Finans: Maliye, Mali İşler, Para İşleri
+Finansal: Mali
+Finanse Edilmek: Parayla Desteklenmek
+Finansman: Para Desteği
+Finansör: Para Destekçisi, Mali Destekçi
+Finiş : Variş
+Finişe Kalkmak: Varış İçin Hızlanmak
+Firikik: Serbest Vuruş
+Firmware : Bellenim
+First Lady: Başhanımefendi
+First-Class : Birinci Orun
+Fitness Center: Sağlıklı Yaşam Merkezi
+Fizibilite : Uygulanabilirlik
+Fizyoterapi: Fizik Tedavi
+Fizyoterapist: Fizik Tedavi Uzmanı
+Flash-Back: Geriye Dönüş
+Flaş: Çakar, Çakıntın, Çarpıcı, Gözde
+Flora: Bitki Varlığı
+Forex: Döviz,Yabancı Para
+Formasyon: Biçimlenme
+Format: Boyut, Boyutlar
+Formel-Enformel : Biçimsel, Şekli
+Forum : Meydan, Söz Meydanı
+Forvet: İleri Uç Oyuncusu, Hücum Oyuncusu
+Forward : Vadeli Döviz Ticareti
+Fotokopi : Tıpkı Çekim
+Fragman : Parça
+Fraksiyon: Hizip, Bölüntü
+Franchising : İsim Hakkı
+Free-Shop : Gümrüksüz Mağaza
+Full-Time: Tam Gün
+Fundamentalist: Köktenci
+Fundamentalizm: Köktencilik
+Fütürist : Gelecekçi
+Faal : Çalışkan, etkin
+Fahri : Onursal
+Fail : Yapan, eden
+Faiz : Getiri
+Faktör : Etken
+Final : Son
+Fanatizm : Bağnızlık
+Fasıl : Bölüm
+Federal : Birleşik
+Finish : Bitiş, varış
+Full : Tam
+Full Time : Tam gün
+Fullemek : Doldurmak

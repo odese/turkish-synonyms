@@ -1,0 +1,52 @@
+Hakiki, Gerçek
+Handikap, EngelHarcırah, Yolluk
+Hard Disc, Ana Bellek
+Harfiyen, Değiştirmeksizin
+Hasıl, Ürün, verim
+Hayalperest, Düşkurucu
+Haysiyet, Onur, saygınlık
+Hazar, BarışHit, Gözde
+
+Hacker : Kırıcı
+Hakiki : Gerçek
+Handikap : Engel
+Happy-hour : İndirim saatleri
+Harcırah : Yolluk
+Hard Disc : Ana Bellek
+Harfiyen : Değiştirmeksizin
+Hasıl : Ürün, verim
+Hat-trick : Üçleme
+Hayalperest : Düşkurucu
+Haysiyet : Onur, saygınlık
+Hazar : Barış
+Hinterland : Art bölge
+Hit : Gözde
+Hosting : Ana sistem
+
+hobi = ilgi, uğraşı
+Handikap, Engel, özür, yetersizlik
+Hakem Triosu : Hakem ve Yardımcı Hakemler
+
+Handikap : Engel
+
+Handling : Yer Hizmetleri
+Happy-Hour : İndirim Saatleri
+Hardware : Donanım
+Hat-Trick: Üçleme
+Hedging : Koruma
+High-Tech : Yüksek, İleri Teknoloji
+Hijyen : Sağlık Bilgisi, Sağlığa Uygunluk
+Hijyenik : Sağlığa Uygun, Sağlıklı, Sıhhi
+Hinterland : Art Bölge
+Hit : Gözde
+Holigan: Serseri, Hayta
+Hukşat : Çengelleme, Çengel (Atiş)
+
+Hakiki : Gerçek
+Handikap : EngelHarcırah : Yolluk
+Hard Disc : Ana Bellek
+Harfiyen : Değiştirmeksizin
+Hasıl : Ürün, verim
+Hayalperest : Düşkurucu
+Haysiyet : Onur, saygınlık
+Hazar : BarışHit : Gözde

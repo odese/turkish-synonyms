@@ -1,0 +1,148 @@
+Edebi, Sonsuz
+Ebeveyn, Ana baba
+Ecnebi, Yabancı
+Edat, İlgeç
+Edip, Yazar
+Editör, Yayımcı
+Egoist, Bencil
+Egzersiz, Alıştırma
+Ego, Ben
+Ekstra, Fazla, fazladan
+Elastik, Esnek
+Enformasyon, Danışma
+Entegre, Bütünleşik
+Entern, Yetişici
+Eskiz, Taslak
+Exit, Çıkış
+
+Ebedi : Sonsuz
+Ebeveyn : Ana baba
+Ecnebi : Yabancı
+Edat : İlgeç
+Edip : Yazar
+Editör : Yayımcı
+Efor: Çaba, gayret, güç
+Egale etmek : Eşitlemek
+Egoist : Bencil
+Egzersiz : Alıştırma
+Ego : Ben
+Ekarte etmek : Elemek
+Ekoloji : ÇEvre bilimi
+Eksper : Uzman
+Ekstra : Fazla, fazladan
+Ekstre : Hesap özeti
+Elastik : Esnek
+Elimine etmek: Elemek
+Elimine olmak: Elenmek
+E-mail: E-posta
+Empati : Duygudaşlık
+Empoze etmek : Dayatmak
+Enformasyon : Danışma
+Entegre : Bütünleşik
+Entern : Yetişici
+Enstrümantal: Sözsüz.
+Entegre : Bütünleşmiş
+Envanter : Döküm
+Eskiz : Taslak
+Eskort : Koruma aracı
+Euro: Avro
+Exit : Çıkış
+Eyeliner: Göz kalemi
+
+e-mail = e-posta
+elimine etmek = elemek
+emergency = acil
+empoze etmek = dayatmak
+entegre olmak = bütünleşmek
+ekstra = fazladan
+exit = çıkış
+e-mail = e-posta
+ergonomik = kullanışlı
+entellektüel = bilgili
+epik = destansı
+elit = seçkin
+Elimine etmek, Eleme
+Empoze etmek, dayatmak
+e-mail, Elektronik posta 
+
+Editör : Yayımlayan, Yayımcı
+
+Efekt: Sesleme, Etkileme
+Efor: Çaba, Gayret, Güç
+Egale Etmek : Eşitlemek
+Ekarte Etmek: Elemek, Safdışı Bırakmak
+Ekipman: Takım, Donanım
+Ekoloji : Çevre Bilimi
+Ekolojik: Çevreyle İlgili, Çevre Bilimiyle İlgili
+Ekolojik Denge : Çevre Dengesi
+Ekolojik Felaket: Çevre Felaketi, Çevre Yıkımı
+Eksantrik : Uçrak, Tuhaf, Garip, Acayip
+Ekspedisyon : Sefer
+Eksper : Uzman
+Ekspertiz : Uzman İncelemesi
+Ekspertiz : Uzman İncelemesi
+Ekspertiz Raporu : Uzman Raporu
+Ekspertiz Raporu : Uzman Raporu
+Eksperyans : Deneme, Deneyim, Tecrübe
+Ekspozisyon : Sergileme, Sergi
+Ekspozisyon Günleri : Sergileme Günleri
+Ekstre : Özet, Hesap Özeti
+Ekstrem : Aşırı
+Eliminasyon : Eleme
+Elimine Etmek : Elemek
+Elimine Olma : Elenmek
+E-Mail : E-Posta, Elmek
+Emisyon : Sürüm
+Empati : Duygydaşlik
+Empoze: Dayatılmış
+Empoze Etmek: Dayatmak
+Endeks: Dizin,Gösterge
+Endeksleme,Endekslenme : Ayarlama, Ayarlanma
+Endeksli: Ayarlı,Bağlı
+Endirekt (Atış) : Çift Vuruş
+Enflasyon : Para Şişkinligi, Şişkinlik
+Enformasyon : Bilgilendirme
+Enjeksiyon : Akıtma,İğne Yapma, İğne Vurma
+Enstalasyon: Yerleştirme
+Enstantane: Anlık (Görünüş)
+Enstürüman : Çalgı Aleti, Mili Belge
+Enstürümental: Sözsüz
+Ent : Elle Oynama
+Ent Var: El Var
+Ent Yapmak: Elle Oynamak
+Entegrasyon : Bütünleşme, Uyum
+Entegre: Bütünleşmiş
+Entegre Olma: Bütünleşmek, Uyum Sağlama
+Enterkonnekte: Bağlaşımlı
+Envanter : Döküm
+Epikriz: Çıkış Özeti
+Episot: Dilim
+Ergonomi: İş Bilimi
+Ergonomik: İşe Yarar, İşe Uygun
+Eskalasyon: Tırmanış
+Eskort: Koruma Aracı
+Esoterik: Gizlem,Gizlemli
+Espionnage: Casusluk, Çaşıtlık
+Establishment: Kurum İleri Gelenler .Seçkinler, Egemen Güçler, Kodomanlar
+Estamp: Oyma Baskı
+Eşelmobil: Değişken Ölçü
+Etap: Adım, Basamak, Konak
+Euro: Avro
+Eyeliner: Göz Kalemi
+
+Edebi : Sonsuz
+Ebeveyn : Ana baba
+Ecnebi : Yabancı
+Edat : İlgeç
+Edip : Yazar
+Editör : Yayımcı
+Egoist : Bencil
+Egzersiz : Alıştırma
+Ego : Ben
+Ekstra : Fazla, fazladan
+Elastik : Esnek
+Enformasyon : Danışma
+Entegre : Bütünleşik
+Entern : Yetişici
+Eskiz : Taslak
+Exit : Çıkış

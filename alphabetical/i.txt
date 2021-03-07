@@ -1,0 +1,49 @@
+İmtiyaz, Ayrıcalık
+İskonto, İndirim
+İzolasyon, Yalıtım
+
+İce tea : Soğuk çay, buzlu çay
+İdefiks : Saplantı, sabit fikir
+İmtiyaz : Ayrıcalık
+İnstant coffee: Hazır kahve
+İnternet : Genel ağ
+İrrite etmek : Kızdırmak
+İskonto : İndirim
+İzolasyon : Yalıtım
+
+illegal = yasa dışı
+imitasyon = taklit
+irregular = düzensiz
+izolasyon = yalıtım
+İmitasyon, Taklit
+İzolasyon, Yalıtım
+İllegal, Yasa dışı
+
+İskonto : İndirim, Kırdırma
+
+İce-Tea : Buzlu Çay
+İdefiks : Sabit Fikir
+İdol : Put, Mini Put
+İllüstrasyon : Bezeme, Resimleme
+İllüstratif : Bezekli
+İllüstratör : Bezeyici, Resimleyici
+İllüzyon : Göz Bağcılık, Yanılsama, Yanılmaca
+İllüzyonist : Göz Bağcı
+İn (Olmak) : Tutulmak, Tutulur Olmak
+İndikatör : Gösterge
+İnisiyatif : Öncelik, Üstünlük
+İnisiyatifi Ele Geçirmek : Üstünlüğü Ele Geçirme
+İnisiyatitifi Ele Almak: Üstünlüğü Ele Almak
+İnline Skate : Kaykaç
+İnsider : İç Hissedar
+İnstant Coffee : Hazır Kahve
+İrredantizm : Kurtarımcılık
+İrrite Edici : Kızdırıcı, Sinirlendirici
+İrrite Etmek : Kızdırmak, Öfkelendirmek, Sinirlendirmek
+İzolasyon : Yalıtma, Yalıtım, İzolasyon
+İzolatör : Yalıtkan
+İzole Etmek : Soyutlamak
+
+İmtiyaz : Ayrıcalık
+İskonto : İndirim
+İzolasyon : Yalıtım

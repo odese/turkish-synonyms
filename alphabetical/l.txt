@@ -1,0 +1,69 @@
+Laboratuvar: Beklemelik
+Lağvetmek: Kaldırmak
+Laptop: Dizüstü bilgisayar
+Limit: Sınır, uç
+Literatür: Yazın
+Loder: Yükler
+Lojman: Kurum konutu
+
+Labirent : Dolambaç
+Laboratuvar: Beklemelik
+Lağvetmek: Kaldırmak
+Lansman: Tanıtım
+Laptop: Dizüstü bilgisayar
+Leasing : Kiralama
+Libero : Son adam
+Limit: Sınır, uç
+Link : İlişim, bağlantı
+Liposuction : Yağ aldırma
+Literatür: Yazın
+Loder: Yükler
+Lojman: Kurum konutu
+Lokal : Yerel, mahalli
+Lümpen : Sefil, seviyesiz
+
+laptop = dizüstü bilgisayar
+link = bağlantı
+
+laptop = dizüstü bilgisayar
+link = bağlantı
+
+Link, Bağlantı
+
+Labirent : Dolambaç, Karmaşık
+Labtop: Dizüstü, Dizüstü Bilgisayarı
+Lanse Etmek: Öne Sürmek
+Laser-Disc : Işıklı Teker
+Lease Etmek: Kiralamak
+Leasing : Kiralama
+Leasingci : Kiralayıcı
+Liberasyon : Serbestlik, Dış Ticaret Serbestliği
+Libero: Son Adam
+Lifting : Gerdirme
+Likidite: Akışkanlık
+Likit : Sıvı, Nakit Akışkan
+Limit : Uç, Sınır, Üst Sınır
+Link : İlişim
+Lisans : Yetki Belgesi, İzin Belgesi, Yetkinlik
+Literatür: Edebiyat
+Lobi : Dalan
+Lobici : Dalancı
+Lobicilik : Dalancılık
+Logo : Ayırmaç
+Lojistik: Donanım
+Lojistik Komutanlık : Donanım Komutanlığı
+Lojistik Planlama Şubesi: Donanım Planlama Şubesi
+Lokal : Yerel, Mahalli, Ev, Eğlence Evi, Eğlence Yeri
+Lokal Anestezi: Sınırlı Uyuşturma
+Lokalize Etmek : Sınırlamak, Sınırlandırmak
+Lot : Tutan
+Lümpen : Sefil, Seviyesiz
+
+Laboratuvar: Beklemelik
+Lağvetmek: Kaldırmak
+Laptop: Dizüstü bilgisayar
+Limit: Sınır, uç
+Literatür: Yazın
+Loder: Yükler
+Lojman: Kurum konutu
+

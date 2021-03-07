@@ -1,0 +1,128 @@
+Mamafi, Bununla birlikte
+Mecmua, Dergi
+Mega, Çok büyük
+Mesaj, Bildiri, ileti
+Metot, Yöntem
+Metropol, Ana kent
+Minimum, En az
+Misyon, Özel görev
+Modern, Çağdaş
+Modernize etmek, Yenilemek
+Montaj, Kurgu
+
+Makro : Geniş, büyük
+Mamafi : Bununla birlikte
+Maraton : Uzun koşu
+Marj : Pay
+Marjinal : Sıra dışı
+Market : Satış merkezi
+Marketing: Pazarlama
+Mecmua : Dergi
+Mega : Çok büyük
+Mega store: Büyük mağaza
+Menajer : Yürütücü
+Mesaj : Bildiri, ileti
+Metamorfoz : Başkalaşma, değişme
+Metot : Yöntem
+Metropol : Ana kent
+Mikro : Dar, küçük
+Minimum : En az
+Misyon : Özel görev
+Modern : Çağdaş
+Modernize etmek : Yenilemek
+Modül : Parça
+Modüler sistem: Parçalı sistem
+Montaj : Kurgu
+Motive etmek : İsteklendirmek
+Mouse : Fare
+Mönü : Yemek listesi
+Multimedia : Çoklu Ortam
+
+mantalite = anlayış,zihniyet
+monoton = tekdüze
+
+meclis = kurultay
+müraacat = başvuru
+metot = yol, yöntem
+Mentalite, Zihniyet
+Mastır, Bilim uzmanı, yüksek lisans
+Mikser, Karıştırıcı
+
+Maç : Karşilaşma
+Makro : Geniş, Büyük
+Makro Açı: Geniş Açı
+Makro Ekonomi: Bütüncü Ekonomi
+Makro Hedef : Büyük Hedef
+Makro Ölçek: Geniş Ölçek
+Maksimalist : Dorukçu Yaklaşı, Aşırı
+Maksimizasyon : En Üst Seviyeye Çıkarmak, Doruklaştırmak
+Maksimum : Doruk, Doruk Noktası, En Son,E N Üst, En Yüksek
+Maksimum Düzey : En Üst Düzey
+Manipülasyon : Hileli Yönlendirme, Hileyle Yönlendirme, Güdümleme
+Mantalite : Zihniyet, Anlayış
+Maraton : Uzun Koşu
+Maratoncu : Uzun Koşucu
+Marj: Pay
+Marjinal : Uç,Uçta,Sıra
+Marjinal Değer Teorisi : Son Birim Değer Teorisi
+Marjinal Gelir : Son Birim Gelir
+Marjinal Maliyet : Son Birim Maliyeti
+Marjinal Yarar (Fayda): Son Birim Yararı (Faydası)
+Marjinalleşme: Uca Koyma, Son Birim
+Markaj: (Adam) Tutma Gölgeleme
+Markaja Alınmak : Tutulmak,Gölgelenmek
+Markajcı : Gölgeleyici
+Marke Etmek : (Adam) Tutmak,G Ölgelemek
+Market : Satış Merkezi
+Market Maker : Piyasa Kurucu
+Marketing : Pazarlama
+Matine: Gündüzlük
+Meditasyon : Derin Düşünme
+Medya: İletişim Araçlari, İletişim Ortami
+Mega: Büyük, Dev, Devasa, Muazzam
+Mega Store : Büyük Mağaza
+Megapol : Dev Şehir, Dev Şar
+Menecer : Yürütücü
+Menü : Yemek Listesi
+Metafor: Mecaz
+Metaforik : Mecazi, Mecazlı
+Metamorfizm : Başkalaşım, Değişim
+Metamorfoz : Başkalaşma, Değişme
+Metodoloji : Yöntem Bilimi, Yöntem, Yöntem Arayışı
+Metraj : Uzunluk
+Metrapol : Ana Kent
+Metro : Yer Altı (Treni)
+Mikro : Dar,Küçük
+Mikro Ekonomi: Birimci Ekonomi
+Mikro Milliyetçilik: Dar Milliyetçilik
+Mikser : Çırpıcı
+Minimarket : Bakkal
+Minimize Etmek : En Aza İndirmek
+Misyon : (Özel) Görev, Amaç
+Mizanpaj : Sayfa Düzeni
+Modem : Çevirge
+Modül : Parça
+Modüler Sistem : Parçalı Sistem
+Monetarist (Monetarizm) : Paracılık, Paracı
+Monetizasyon: Para Basma, Paraya Çevirme
+Monetize Etmek : Paraya Çevirmek, Para Basmak
+Monitör: Yetiştirici, Mini Gösterici
+Monopol: Tekel
+Montaj : Takyap,Kurgu
+Montör: Takyapçı, Takyap Ustası
+Moratoryum: Borç Ertelemek
+Motivasyon: İsteklendirme
+Motive Etmek : İsteklendirmek
+Multivizyon: Multivizyon Gösterisi, Çok Yansıtmalı Gösterim
+
+Mamafi : Bununla birlikte
+Mecmua : Dergi
+Mega : Çok büyük
+Mesaj : Bildiri, ileti
+Metot : Yöntem
+Metropol : Ana kent
+Minimum : En az
+Misyon : Özel görev
+Modern : Çağdaş
+Modernize etmek : Yenilemek
+Montaj : Kurgu

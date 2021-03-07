@@ -1,0 +1,160 @@
+Taahhüt, Üstlenme
+Tahkim, Pekiştirme
+Tahlil, Çözümleme
+Tahliye, Salıverme
+Taklit, Öykünme
+Tali, İkincil
+Talk şov, Söz gösterisi
+Tansiyon, Kan basıncı, gerilim
+Tasarruf, Biriktirme, artırım
+Tatil, Dinlence
+Taviz, Ödün
+Tazminat, Ödence
+Tebliğ, Bildiri
+Tedavül, Geçerlik, sürüm
+Tekabül etmek, Karşılamak
+Teknik, Yol, yöntem
+Tekzip, Yalanlama
+Temyiz, Ayırt etme
+Teorem, Önerme
+Teori, Kuram
+Teorik, Kuramsal
+Terapi, İyileştirme
+Tercüme, Çevirme, çeviri
+Termometre, Sıcaklık ölçer
+Terör, Yıldırı
+Tesir, Etki
+Tesisat, Kurum, kuruluş
+Test, Sınama
+Tez, Sav
+Tezat, Çelişki, karşıtlık
+Tiraj, Baskı sayısı
+Torpil, Kayırma
+Totaliter, Baskıcı, bütüncülTrafik, Gidiş-geliş
+Trajedi, Ağlatı
+Transparan, SaydamTrend, Yönelme, eğilim
+Turizm, Gezim
+Tümör, Ur
+Türbülans, Ters akıntı
+
+Taahhüt : Üstlenme
+Tahkim : Pekiştirme
+Tahlil : Çözümleme
+Tahliye : Salıverme
+Taklit : Öykünme
+Tali : İkincil
+Talk şov : Söz gösterisi
+Tansiyon : Kan basıncı, gerilim
+Tasarruf : Biriktirme, artırım
+Tatil : Dinlence
+Taviz : Ödün
+Tazminat : Ödence
+Tebliğ : Bildiri
+Tedavül : Geçerlik, sürüm
+Tekabül etmek : Karşılamak
+Teknik : Yol, yöntem
+Tekzip : Yalanlama
+Temyiz : Ayırt etme
+Teorem : Önerme
+Teori : Kuram
+Teorik : Kuramsal
+Terapi : İyileştirme
+Tercüme : Çevirme, çeviri
+Termometre : Sıcaklık ölçer
+Terör : Yıldırı
+Tesir : Etki
+Tesisat : Kurum, kuruluş
+Test : Sınama
+Tezat : Çelişki, karşıtlık
+Tiraj : Baskı sayısı
+Torpil : Kayırma
+Totaliter : Baskıcı, bütüncül
+Trafik : Gidiş-geliş
+Trajedi : Ağlatı
+Transparan : Saydam
+Trend : Yönelme, eğilim
+Turizm : Gezim
+Tümör : Ur
+Türbülans : Ters akıntı
+
+timing = zamanlama
+transfer = nakil
+trend = eğilim
+Tribün, Basamak basamak yükselen yer
+trailer, Tanıtım videosu 
+
+Tabldot: Seçmesiz Yemek
+Tabloid : Küçük Gazete
+Taca Çıkmak : Yana Çıkmak
+Taç: Yan
+Taç Atmak (Atışi Yapmak) : Yan Atışı Yapmak
+Taç Çizgisi: Yan Çizgisi
+Talk Şov: Çene Yarıştırma, Söz Gösterisi
+Talk Şovcu : Çene Yarıştırıcı
+Tandans : Eğilim
+Tayming : Zamanlama
+Tefe : Toptan Eşya Fiyatları Göstergesi
+Telekomand: Uzaktan Komut
+Tempo : Gidiş, Hız, Vuruş
+Tempo Tutmak: Vuruş Yapmak
+Terapi: Tedavi
+Terapist: Tedavi Uzmanı
+Termoterapi : Isı Tedavisi
+Test Etmek : Denemek, Ölçmek, Tadına Bakmak
+Thalassotherapie: Deniz Tedavisi
+Think-Tank: Beyin Takımı
+Tiraj : Baskı Sayısı
+Tirbülans: Burgaç,Hava Burgacı
+Tonmayster: Ses Yönetmeni
+Topless : Üstsüz
+Transfigürasyon: Biçim Değişimi
+Transformasyon : Dönüşüm, Biçim Degiştirme, Kabuk Değiştirme,
+Transparan: Saydam, Şeffaf, İçgösterir
+Transplantasyon : Organ Nakli, Organ Aktarımı
+Travma: Vuruk, İncinme, Sarsıntı
+Travmatoloji : Vuruk Bilimi
+Trekking : Dağ Yürüyüşü
+Trend : Eğilim
+Tripleks: Üç Kat
+Triyaj : Ayırma, Eleme, Üçlü Alan
+Tubeless: İçsiz
+Tüfe : Tüketici Fiyatları Göstergesi
+
+Taahhüt : Üstlenme
+Tahkim : Pekiştirme
+Tahlil : Çözümleme
+Tahliye : Salıverme
+Taklit : Öykünme
+Tali : İkincil
+Talk şov : Söz gösterisi
+Tansiyon : Kan basıncı, gerilim
+Tasarruf : Biriktirme, artırım
+Tatil : Dinlence
+Taviz : Ödün
+Tazminat : Ödence
+Tebliğ : Bildiri
+Tedavül : Geçerlik, sürüm
+Tekabül etmek : Karşılamak
+Teknik : Yol, yöntem
+Tekzip : Yalanlama
+Temyiz : Ayırt etme
+Teorem : Önerme
+Teori : Kuram
+Teorik : Kuramsal
+Terapi : İyileştirme
+Tercüme : Çevirme, çeviri
+Termometre : Sıcaklık ölçer
+Terör : Yıldırı
+Tesir : Etki
+Tesisat : Kurum, kuruluş
+Test : Sınama
+Tez : Sav
+Tezat : Çelişki, karşıtlık
+Tiraj : Baskı sayısı
+Torpil : Kayırma
+Totaliter : Baskıcı, bütüncülTrafik : Gidiş-geliş
+Trajedi : Ağlatı
+Transparan : SaydamTrend : Yönelme, eğilim
+Turizm : Gezim
+Tümör : Ur
+Türbülans : Ters akıntı

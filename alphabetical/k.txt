@@ -1,0 +1,185 @@
+Kabine, Bakanlar kurulu
+Kabotaj: Gemi işletimi
+Kadastro, Yeryazım
+Kadir: Değer
+Kaide: Değer
+Kainat: Evren
+Kalibraj: Ayarlama
+Kalite, Nitelik
+Kamer: Ay
+Kamera: Alıcı
+Kampüs, Yerleşke
+Karambol, Karışıklık
+Kartel, Tekel
+Komite, Kurul
+Kompetan, Uzman
+Komplike, Karışık, dolaşık
+Komünikasyon, İletişim
+Konfeksiyon, Hazır giyim
+Konferans, Konuşma, toplantı
+Kongre, Kurultay
+Konsept, Kavram
+Konsültasyon, Danışım
+Kozmik, Evrensel
+
+Kabine : Bakanlar kurulu
+Kabotaj: Gemi işletimi
+Kadastro : Yeryazım
+Kadir: Değer
+Kadük : Düşmüş
+Kaide: Değer
+Kainat: Evren
+Kalibraj: Ayarlama
+Kalite : Nitelik
+Kamer: Ay
+Kamera: Alıcı
+Kampüs : Yerleşke
+Karambol : Karışıklık
+Kartel : Tekel
+Kartvizit : Tanıtma kartı
+Kombinasyon : Birleşim
+Komite : Kurul
+Kompetan : Uzman
+Komplike : Karışık, dolaşık
+Komplo : Tuzak
+Komünikasyon : İletişim
+Konfeksiyon : Hazır giyim
+Konferans : Konuşma, toplantı
+Konfigürasyon : Yapılandırma
+Kongre : Kurultay
+Konsantre : Yoğunlaştırılmış
+Konsept : Kavram
+Konsültasyon : Danışım
+Kontrast : Zıtlık, karşıtlık
+Kozmik : Evrensel
+
+klasifikasyon =sınıflandırma
+kompleks = karmaşık
+komünikasyon = iletişim
+konsensus = uzlaşma
+koordinasyon = eşgüdüm
+kriter = ölçüt
+kampüs = yerleşke
+kelime = sözcük
+Komünikasyon, İletişim
+Koordinasyon, Eşgüdüm, uyumlu çalışma
+
+Kadük : Düşmüş
+Kadük Olmak : Düşmek, Düşmüş Olmak
+Kalifikasyon : Niteliklilik, Vasıflılık
+Kalifiye : Nitelikli, Vasıflı
+Kalitatif : Niceleyici
+Kampüs: Yerleşke
+Kamuflaj: Gizlenme
+Kamufle : Gizlenmiş
+Kamufle Etmek: Gizlemek
+Kaos : Kargaşa,Karşiklik
+Karambol: Karmaşa
+Kariyer: Meslek, Uzmanlaşma
+Kariyer Yapmak: Meslekte Yükselme, Uzmanlaşma
+Karizma : Büyüleyici Özellik
+Kartvizit : Tanıtma Kartı
+Kemoterapi : Kimyasal Tedavi
+Kitsch : Bayağı, Bayağılık, Zevksizlik
+Klasman Grubu: Alt Küme
+Klip: Görüntüleme, Görümsetme
+Klon : Kopyalama
+Know-How: Yöntem Bigisi, Bilgi Satma, Kiralama
+Koç : Çalıştırıcı
+Kodfiye Etmek: Düzenlemek
+Kodifikasyon: Düzenleme
+Kokpit : Pilot Köşkü
+Kolaj : Kesyap
+Kolokyum : Bilimsel Toplantı
+Kombinasyon : Birleşim
+Kombine : Birleşik, Toplu
+Kombine Akın: Toplu Akın
+Kombine Bilet: Toplu Bilet
+Kombine Savunma: Toplu Savunma
+Kombine Yarış: Toplu Yarış
+Kompakt Disk : Yoğun Teker
+Kompetitif : Yarışımcı, Rekabetçi
+Kompleks : Karmaşık,Ruh Karmaşası, Tesis, Kuruluş, Yan Etki, İstenmeyen Durum
+Komplike : Karışık
+Komplo: Tuzak
+Komplo Kurmak: Tuzak Kurmak
+Kondisyon: Erk
+Kondisyoner : Geliştirici
+Konfirmasyon: Doğrulama, Geçerleme
+Konfirme Etme: Doğrulamak, Geçerlemek
+Konfirme Ettirmek : Doğrulatmak, Geçerletmek
+Konformizm : Uymacılık,Uyarcılık
+Kongre: Kurultay
+Konjoktivite : Göz Yangısı
+Konjonktür: Toplu Durum
+Konkordato : İflas Anlaşması
+Konsantrasyon: Yoğunlaşma
+Konsantre : Yoğunlaştırılmış
+Konsantre Etmek : Yoğunlaştırmak
+Konsantre Olmak : Yoğunlaşmak
+Konsensus : Uzlaşma,Mutabakat
+Konsept : Kavram
+Konsolidasyon : Pekiştirme
+Konsolide : Pekiştirilmiş
+Konsolide Bütçe : Destekli Bütçe
+Konsorsiyum : Şirketler Birliği
+Konstellasyon : Yapı
+Konteyner : Taşımacılık
+Kontör : Konuşumluk
+Kontrast : Zıtlık, Karşıtlık, Tezat
+Kontrastlık : Zıt, Karşıt, Tezatlık
+Kontratak: Ani Akın
+Kontrespiyonaj: Karşı Casusluk
+Konvertibilite : Çevrilgenlik
+Konvertibl : Çevrilgen
+Koprodüksiyon: Ortak Yapım
+Korelasyon : İlgileşim
+Korner : Köşe
+Korner Vuruşu : Köşe Vuruşu
+Kornere Çıkarmak,Çıkmak : Köşeye Çıkarmak Çıkmak
+Kot: İm
+Kota : Ülüş
+Kotasyon : Değer
+Kotasyon Vermek: Değer Açıklamak
+Kote Edilmek: Ülüşe Alınmak
+Kote Etmek: Ülüşe Almak
+Kotlamak: İmlemek
+Krampon : Tutmalık
+Kreasyon : Yaratım
+Kreatif-Kreatör: Yaratımcı
+Kredibilite : Güvenilirlik
+Kreditör: Kredi Açıcı
+Krematoryum : Yakmalık
+Kripto: Şifreli Yazı, Saklı Yazı
+Kriter : Ölçüt, Kıstas
+Krupiye: Oyun Görevlisi, Kumar Ebesi
+Kulvar: Şerit,Yol,Çizgi
+Kupür: Kesik
+Kümülasyon: Katlanma, Birikme, Kümelenme
+Kümülatif: Katlanmış, Birikmiş, Kümeli
+Kümülatif Olarak : Katlanmış Olarak
+Küratör: Kollayıcı
+
+Kabine : Bakanlar kurulu
+Kabotaj: Gemi işletimi
+Kadastro : Yeryazım
+Kadir: Değer
+Kaide: Değer
+Kainat: Evren
+Kalibraj: Ayarlama
+Kalite : Nitelik
+Kamer: Ay
+Kamera: Alıcı
+Kampüs : Yerleşke
+Karambol : Karışıklık
+Kartel : Tekel
+Komite : Kurul
+Kompetan : Uzman
+Komplike : Karışık, dolaşık
+Komünikasyon : İletişim
+Konfeksiyon : Hazır giyim
+Konferans : Konuşma, toplantı
+Kongre : Kurultay
+Konsept : Kavram
+Konsültasyon : Danışım
+Kozmik : Evrensel

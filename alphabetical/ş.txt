@@ -1,0 +1,42 @@
+Şantaj, Göz korkurtma
+Sark, Doğu
+Şekil, Biçim, tutum
+Şerh, Açma, ayırma
+Şofben, Su ısıtıcısı
+Şoför, Sürücü
+Şok olmak, Çok şaşırmak
+Şov, Gösteri
+Şovrum, Sergi evi
+Şube, Dal, kol
+
+Şantaj : Göz korkurtma
+Sark : Doğu
+Şekil : Biçim, tutum
+Şerh : Açma, ayırma
+Şofben : Su ısıtıcısı
+Şoför : Sürücü
+Şok olmak : Çok şaşırmak
+Şov : Gösteri
+Şovrum : Sergi evi
+Şube : Dal, kol
+
+şehir = il
+Şov, Gösteri, gösteriş, teşir
+
+Şilt : Ergilik
+Şov: Gösteri
+Şov Yapmak : Gösteri Yapmak
+Şovmen: Gösteri Adamı
+Şovrum: Sergi Evi
+Şutör : Atıcı
+
+Şantaj : Göz korkurtma
+Sark : Doğu
+Şekil : Biçim, tutum
+Şerh : Açma, ayırma
+Şofben : Su ısıtıcısı
+Şoför : Sürücü
+Şok olmak : Çok şaşırmak
+Şov : Gösteri
+Şovrum : Sergi evi
+Şube : Dal, kol

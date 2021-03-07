@@ -1,0 +1,71 @@
+Camia, Topluluk
+Cari, Yürürlükte olan
+Catering, Yemek hizmeti
+Celse, Oturum
+Cengaver, Savaşçı
+Center, Merkez
+Cenup, Güney
+Cereyen, Akım
+Cetvel, Çizelge, düzçizer
+Cevap, Yanıt, karşılık
+Check up, Tümtanı
+Cihaz, Aygıt
+
+Call center: Çağrı merkezi
+Camia : Topluluk
+Cari : Yürürlükte olan
+Catering : Yemek hizmeti
+Celse : Oturum
+Cengaver : Savaşçı
+Center : Merkez
+Cenup : Güney
+Cereyan : Akım
+Cetvel : Çizelge, düzçizer
+Cevap : Yanıt, karşılık
+Change : Para değişimi
+Chat : Sohbet
+Check-in : Giriş işlemi
+Check-out : Çıkış işlemi
+Check-list: Denetim çizelgesi
+Check-point: Denetim noktası
+Check up : Tümtanı, tam bakım
+Cheese cake: Peynirli kek
+Corner : Köşe
+Cihaz : Aygıt
+Cracker: Çökertici
+
+catering = yemek hizmeti
+center = merkez
+counter = sayaç
+cv = özgeçmiş
+Catering, Yiyecek içecek sağlama, ikram servisi yapma 
+Check etmek, Kontrol etmek
+Center, Merkez
+
+Cash Cart : Nakit Kart
+
+Casting : Oyuncu Seçimi, Deneme Seçimi
+Catering: Yemek Hizmeti
+Change: Para Değişimi, Para Alım Satımı
+Charter : Dolmuş, Dolmuş Uçak
+Check-İn : Giriş İşlemi
+Check-Out : Çıkış İşlemi
+Check-Point : Denetim Noktası
+Cheese Cake : Peynirli Kek
+Clip,Clip Kart : Varlık Kartı
+Corner : Korner, Köşe, Bayi
+Corner Vermek : Bayilik Vermek
+Crash-Test : Çarpsına
+
+Camia : Topluluk
+Cari : Yürürlükte olan
+Catering : Yemek hizmeti
+Celse : Oturum
+Cengaver : Savaşçı
+Center : Merkez
+Cenup : Güney
+Cereyen : Akım
+Cetvel : Çizelge, düzçizer
+Cevap : Yanıt, karşılık
+Check up : Tümtanı
+Cihaz : Aygıt

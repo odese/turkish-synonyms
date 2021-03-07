@@ -1,0 +1,146 @@
+Dahil, İç, içsel
+Darbımesel, Atasözü
+Darphane, Para basımevi
+Data, Veri
+Debriyaj, Kavrama
+Defans(if), Savunma, savunmalı
+Deforme, Şekli bozulmuş
+Defroster, Buz çözer
+Deklarasyon, Bildiri, açıklama
+Demo, Tanıtım
+Demonstrayon, Gösteri
+Departman, Bölüm
+Despot, Buyurgan
+Direktör, Yönetmen
+Dizayn, Tasarım
+Done, Veri
+Download, Yüklemek
+Driver, Sürücü
+Dubleks, İki katlı
+
+Dahil : İç, içsel
+Darbımesel : Atasözü
+Darphane : Para basımevi
+Data : Veri
+Debriyaj : Kavrama
+Defans : Savunma
+Defansif : Savunmaya dayalı
+Deforme : Şekli bozulmuş
+Defroster : Buz çözer
+Deklarasyon : Bildiri, açıklama
+Demo : Tanıtım
+Demonstrayon : Gösteri
+Deep-freeze: Derin dondurucu
+Dejenerasyon: Yozlaşma
+Dejenere : Yozlaşmış
+Dekont : Hesap belgesi
+Departman : Bölüm
+Deplasman : Yabancı saha
+Depresyon : Ruh çöküntüsü
+Despot : Buyurgan
+Dijital : Sayısal
+Direktör : Yönetmen
+Distribütör: Dağıtıcı
+Dizayn : Tasarım
+Done : Veri
+Doping : Uyarıcı
+Download : İndirmek, yüklemek
+Driver : Sürücü
+Dublaj : Seslendirme
+Dubleks : İki katlı
+
+data = veri
+deklare etmek = bildirmek
+departman = bölüm
+dizayn = tasarım
+download = indirmek
+dökünam = belge
+driver = sürücü
+detay = ayrıntı
+dominant = baskın
+Doküman, belge
+Data, Veri, bilgi, girdi
+Deklare etmek, Beyan etmek, bildirmek 
+Dizayn, Tasarım, taslak, düzen
+
+Dubleks, İki katlı
+
+Damping: Düşürüm
+Dansing : Danslık
+De Fakto: Edimli, Edimli Olarak
+Dead Line : Süre Sonu, Zaman Sınırı
+Dealer : Satımcı
+Dealing Room : Satış Odası, Satış İşlem Odası
+Deep-Freeze : Derin Dondurucu
+Defans: Savunma
+Defansif: Savunmaya Dayalı
+Deflasyon: Durgunluk, Para Kısıtlaması
+Deflatör: Para Kısıtlayıcı
+Dejenerasyon : Yozlaşma, Yozlaşmış, Yozlaştırmak
+Deklarasyon : Bildirge
+Dekoder : Çözücü
+Dekolte : Açık, Açık Giysi
+Dekont : Hesap Belgesi
+Demagog: Laf Ebesi, Lafazan
+Demagoji : Laf Ebeliği, Lafazanlık
+Demarke Durum: Boşta Olma Durumu
+Demarke Olma: Boşta Olma, Sıyrılmak
+Demostrasyon: Gösteri
+Depar: Çıkış
+Depar Atmak: Hızlanmak
+Depar Hakemi : Çıkış Hakemi
+Depara Kalkmak : Hıza Kalkmak
+Deparı Atmak: Hızlanış Yapmak
+Departman: Bölüm
+Deplase Olmak : Yer Değiştirmek
+Deplasman: Yabancı Saha
+Deplasmana Çıkmak: Yabancı Sahaya Çıkmak
+Depresyon : Çöküntü, Ruh Çöküntüsü
+Destinasyon : Varış Yeri,Hedef
+Determinist: Gerekirci
+Determinizim : Gerekircilik
+Detone (Olmak) : Perdesizleşmek, Perdesi Bozulmak
+Devalüasyon : Değer Düşürme
+Dezenformasyon : Yanıltma Haber, Bilgi Çarpıtma
+Diaspora: Kopuntu
+Dinamo : Sürükleyici, Güç Kaynağı
+Disk: Teker
+Disk Atmak : Teker Atmak
+Disket: Tekerci
+Diskjokey : Tekerçalarcı
+Disk-Player : Tekerçalar
+Disponibilite: Hazır Para
+Distribütör : Dağıtıcı
+Dizayn : Çizim, Tasarım
+Dizayn Edilmek: Tasarımlanmak
+Dizayn Etmek: Tasarımlamak
+Dizaynır : Tasarımcı
+Done, Data: Veri
+Doping : Uyarıcı
+Double Team: Çifte Kıskaç
+Dripling : Top Sürme,Sürüş
+Duayen: Kıdemli, Aksakal
+Dublaj : Seslendirme
+Duble: Çift
+Duble Bad : İkili Yatak
+Dubleks: İki Katlı
+
+Dahil : İç, içsel
+Darbımesel : Atasözü
+Darphane : Para basımevi
+Data : Veri
+Debriyaj : Kavrama
+Defans(if) : Savunma, savunmalı
+Deforme : Şekli bozulmuş
+Defroster : Buz çözer
+Deklarasyon : Bildiri, açıklama
+Demo : Tanıtım
+Demonstrayon : Gösteri
+Departman : Bölüm
+Despot : Buyurgan
+Direktör : Yönetmen
+Dizayn : Tasarım
+Done : Veri
+Download : Yüklemek
+Driver : Sürücü
+Dubleks : İki katlı

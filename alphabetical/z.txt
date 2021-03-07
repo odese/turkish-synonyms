@@ -1,0 +1,21 @@
+Zaaf,Güçsüzlük, düşkünlük
+Zabıt, Tutanak
+Zamir, Adıl
+Zevat, Kişiler
+Ziraat, Tarım
+Zirve, Doruk
+
+Zaaf :Güçsüzlük, düşkünlük
+Zabıt : Tutanak
+Zamir : Adıl
+Zaping : Geçgeç
+Zevat : Kişiler
+Ziraat : Tarım
+Zirve : Doruk
+
+Zaaf :Güçsüzlük, düşkünlük
+Zabıt : Tutanak
+Zamir : Adıl
+Zevat : Kişiler
+Ziraat : Tarım
+Zirve : Doruk
