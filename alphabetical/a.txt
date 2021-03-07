@@ -1,5 +1,3 @@
-Abes, Anlamsız, saçma
-Abluka, Kuşatma, çevirge
 Abone, Sürdürümcü
 Absürt, Saçma, usdışı
 Adapte, Uyum
@@ -55,8 +53,6 @@ Atom, Ögecik
 Atölye, İşlik
 Avans, Öndelik
 
-Abes : Anlamsız, saçma
-Abluka : Kuşatma, çevirge
 Abone : Sürdürümcü
 Absürt : Saçma, usdışı
 Adapte : Uyum
@@ -192,8 +188,6 @@ Asparagas: Şişirme Haber
 Avangart: Öncü
 Avans: Öndelik
 
-Abes : Anlamsız, saçma
-Abluka : Kuşatma, çevirge
 Abone : Sürdürümcü
 Absürt : Saçma, usdışı
 Adapte : Uyum
