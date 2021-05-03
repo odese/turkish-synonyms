@@ -12,7 +12,7 @@ abluka, kuşatma, sarma
 abuk sabuk, boş, anlamsız, saçma sapan
 abullabut, hantal, kaba
 abus, somurtkan, çatık
-*acaba, acep
+acaba, acep
 acar, taşkın, atılgan, güçlü, cesur, becerikli
 acayip, tuhaf, garip, yadırganan, değişik
 acele, tez, çabuk, ivedi, süratli, hızlı
@@ -20,14 +20,1767 @@ aceleci, ivecen, telaşçı, içi tez, tez canlı
 acemce, farsça
 acemi, toy, beceriksiz, bilgisiz
 acemilik, toyluk
-*acep, acaba
+acep, acaba
 acı, üzüntü, ıstırap, elemli, kederli
 acıklı, üzücü, dokunaklı, hazin, trajik
-*acımak, merhamet etmek
+acımak, merhamet etmek
 acımasız, merhametsiz, zalim, gaddar
 acımaz, zalim
 acınmak, eseflenmek, yazıklanmak
 acil, süratli, tez
 acilen, hemen, alelacele
 aciz, güçsüz, beceriksiz
-acun, dünya, alem, kainat, evren
+acun, dünya, alem, kainat, evren 
+acuze, huysuz, çirkin, yaşlı kadın 
+aç, yoksul, parasız, fakir 
+açgözlü, tamahkâr, haris 
+açgözlülük, tamahkârlık
+açı, yön, görüş
+açıcı, ferahlatıcı, güzelleştirici, memnun edici
+açık, belli, belirgin, aleni, sarih, örtüsüz
+açık artırma, müzayede
+açıkça, net, alenen, aşikâre
+açıkgöz, kurnaz, uyanık
+açıklamak, izah etmek, aydınlatmak, yorumlamak
+açıklık, aydınlık, çıplaklık, genişlik, vüsat, mesafe, sarahat, vuzuh, uzaklık
+açık saçık, müstehcen
+açıktan, bedava, karşılıksız
+açık yürekli, samimi
+açılış, açılma, uzaklaşma, resmi küşat, açış töreni
+açılmak, ferahlamak, bollaşmak, delinmek, yırtılmak, anlamak
+aç kalmak, acıkmak
+açıölçer, iletki
+açlık, kıtlık, yoksulluk
+ad, isim, nam
+adabımuaşeret, görgü
+adale, kas
+adalet, hakkaniyet, doğruluk, eşitlik
+adaletli, adil
+adam, insan, erkek, mert
+adamak, niyet etmek, nezretmek
+adamakıllı, iyice, güzelce, enikonu, gayet
+adamcıl, sokulgan, evcil
+adam sendeci, ilgisiz
+adamsız, yalnız, kimsesiz, tek başına
+adap, töre, yol, yordam
+adaptasyon, uyarlama
+adapte etmek, uyarlamak 
+adavet, düşmanlık
+aday, namzet
+ad çekme, kura
+addetmek, saymak
+adem, yokluk, ölüm, hiçlik
+âdem, adam, insan
+âdemoğlu, insanoğlu, kişioğlu
+adese, büyüteç, pertavsız
+adet, sayı, tane
+âdet, alışkanlık, huy, görenek
+âdeta, bayağı, basbayağı, enikonu, sanki, hemen hemen
+adıl, zamir
+adım, aşama
+adına, hesabına, namına
+adi, bayağı, aşağılık, sıradan, basit, değersiz
+adil, adaletli, insaflı, haktanır
+adilane, adaletlice, hakça, insaflıca
+adli, tüzel, adaletle ilgili
+adu, düşman
+af, bağışlama
+afacan, haylaz, haşarı, yaramaz 
+afaki, dereden tepeden, şuradan buradan, objektif, nesnel
+afallamak, şaşırmak
+aferin, bravo
+afet, felaket, yıkım, bela, musibet, güzel, dilber
+affetmek, bağışlamak
+afi, gösteriş
+afif, iffetli, temiz
+afilli, gösterişli
+afiyet, esenlik, sağlık
+afsun, büyü, üfürük, sihir
+afsuncu, büyücü
+agâh, bilir, uyanık, bilgili, haberli
+ağababa, dede
+ağarmak, beyazlamak, aydınlanmak
+ağartmak, beyazlatmak
+ağı, zehir
+ağır, kilosu fazla, değerli, çetin, güç, zahmetli, yüklü, yavaş
+ağırbaşlılık, sakinlik, dinginlik, ciddilik, temkin, vakar
+ağırlaşmak, fenalaşmak, kötüleşmek
+ağırkanlı, üşengen
+ağırlamak, ikram etmek, yüceltmek, yavaşlamak
+ağıt, mersiye, sagu
+ağız aramak, sormak, sorguya çekmek
+ağızsız, sessiz, yumuşak huylu
+ağlamak, göz yaşı dökmek
+ağrı, ıstırap, acı
+ağyar, yabancı, el, el âlem, ecnebi
+ahali, topluluk
+ahbap, dost, arkadaş, tanıdık, bildik
+ahdetmek, andetmek, yemin etmek
+ahenk, uyum
+aheste, yavaş, ağır
+ahir, son
+ahit, ant, yemin
+ahize, alıcı
+ahkâm, hükümler
+ahlak, huy, terbiye, töre
+ahlaksız, sefil, iffetsiz, namussuz
+ahmak, akılsız, budala, aptal, salak
+ahu, ceylan
+ahval, durumlar, hâller, vaziyetler
+aidat, ödenti
+aidiyet, ilgi
+ait, ilişkin
+ajan, casus
+ajanda, andaç
+ak, beyaz
+akabinde, ardından, arkasından
+akalliyet, azınlık
+akamet, kısırlık, verimsizlik, başarısızlık, sonuçsuzluk
+akar, akıcı, akışkan, sıvı, gelir
+akdem, önce, evvel
+akıbet, son, sonuç
+akıcı, akışkan, sıvı, akar
+akıl, us, bilinç, şuur, hafıza, bellek, zihin, fikir, yargı, muhakeme
+akılane, akıllıca
+akıllı, zeki, uyanık, makul, mutedil
+akılsız, düşüncesiz, aptal
+akım, cereyan, akıntı
+akın, saldırı
+akıntı, akım, cereyan, akma, akış, seyelan, meyil, eğiklik
+akide, iman, inanç, itikat
+akim, verimsiz
+akis, yankı, tepki, zıt, ters, aksi
+akit, anlaşma, mukavele, sözleşme, kontrat
+aklamak, temize çıkarmak
+aklanmak, temizlenmek
+aklen, akılca
+aklıselim, sağduyu
+akort, düzen
+akraba, hısımlar
+akran, yaşıt
+aksak, bozuk, kusurlu
+aksan, söyleyiş 
+aksi, huysuz, ters, aykırı
+aksiseda, yankı 
+akşamcı, sarhoş
+aktarmak, devretmek 
+aktif, hareketli, girişken
+aktüalite, güncellik 
+al, kırmızı
+ala, alaca, karışık renkli 
+âlâ, iyi, fevkalâde 
+alabildiğine, azami, en çok 
+alaca, ala 
+alaimisema, gökkuşağı
+alaka, ilgi 
+alakadar, ilgili 
+alakasız, ilgisiz
+alamet, belirti, iz, işaret 
+alan, saha, meydan
+alay, kafile, kortej
+alayiş, gösteriş, çalım, övünme
+albeni, cazibe, sempati
+alçak, aşağı, bayağı, adi
+alçak gönüllü, mütevazı
+alçalmak, soysuzlaşmak, bayağılaşmak, adileşmek, kötüleşmek, inmek
+aldanmak, yanılmak, aldatılmak 
+aldatmak, kandırmak, avutmak, yutturmak, dolandırmak, tuzağa düşürmek, oyun oynamak
+aldırmaz, lakayt, kayıtsız
+aldırmazlık, kayıtsızlık, tasasızlık
+alelacayip, yabansı, garip, tuhaf
+alelacele, çarçabuk, ivedilikle
+alelade, basbayağı, olağan, sıradan, bayağı
+alem, bayrak
+âlem, dünya, cihan, evren, eğlence
+âlemsümul, evrensel, milletlerarası
+alenen, açıkça, aşikâre
+aleni, belli
+alesta, hazır, tetikte
+alev, yalaz
+aleyh, karşı, karşıt
+alfabe, abece
+algı, idrak, seziş
+alıcı, müşteri
+alık, şaşkın, akılsız, düşüncesiz
+alım, albeni, çekicilik, cazibe
+alımlı, çekici, güzel, cazibeli, sempatik
+alıngan, duygulu, içli, hassas
+alınmak, incinmek, gücenmek
+alın yazısı, kader
+alışkanlık, âdet, itiyat
+alışmak, ısınmak, duygusuzlaşmak, dadanmak
+âli, yüce, ulu
+alicenaplık, cömertlik, şereflilik
+alil, sakat, hastalıklı
+âlim, bilgin
+alkışçı, şakşakçı
+alkolik, sarhoş, ayyaş
+Allah, Mevla, Tanrı, Hak, Huda
+allahlık, saf, zararsız
+allame, çok bilgili
+almanak, takvim
+alp, yiğit, er, kahraman
+alternatif, seçenek
+altıpatlar, toplu tabanca
+altüst, karmakarışık
+ama, lakin, fakat
+âmâ, kör
+amaç, gaye, hedef, erek, maksat, kasıt, garaz, emel, murat, ülkü, ideal
+amade, hazır
+amansız, insafsız, acımasız, gaddar
+ambar, depo, ardiye
+ambulans, cankurtaran
+amca, emmi
+amele, işçi
+ameli, pratik
+ameliyat, operasyon
+amil, etken
+amir, buyuran, buyurucu, üst, baş
+amiyane, basit, değersiz, kaba
+amme, kamu
+ampul, lamba
+amut, dikme
+an, zaman
+ana, anne, valide, temel, asli, esas
+anadan doğma, çıplak, doğuştan
+anafor, girdap
+anafor, kazanç
+anaforcu, bedavacı, asalak
+analiz, tahlil, çözümleme
+anamal, sermaye
+anane, gelenek, töre, görenek
+ananevi, geleneksel
+anbean, gittikçe
+andaç, yadigâr, hatıralık, ajanda
+andavallı, budala
+andetmek, ahdetmek, yemin etmek
+andırmak, benzemek, hatırlatmak
+angut, ahmak
+anı, hatıra
+anılmak, hatırlanmak, yâd edilmek
+anıt, abide
+anıtsal, abidevi
+ani, apansız, ansızın, birdenbire, hemen
+aniden, hemen
+anket, soruşturma, araştırma
+anlam, mana, kavram, meal
+anlamak, akıl etmek, soruşturmak, idrak etmek, sezmek, fark etmek, bilgisi olmak
+anlamdaş, eş anlamlı, müteradif
+anlamlı, manalı, manidar
+anlamsız, manasız, boş, kuru, yavan
+anlaşmak, uyuşmak, sözleşmek, bağdaşmak, kaynaşmak, uzlaşmak, barışmak
+anlaşmazlık, ihtilaf, aykırılık, geçimsizlik, birleşmezlik
+anlatım, ifade, nakletme, hikâye etme
+anlatmak, açıklamak, aydınlatmak, yorumlamak
+anlayış, düşünce, izan, zihniyet, müsamaha
+anlayışlı, zeki, ferasetli
+anlayışsız, aptal, düşüncesiz
+anmak, yâd etmek, zikretmek
+anne, ana, valide
+anormal, aşırı
+ansızın, birdenbire, aniden
+ant, yemin, kasem, antlaşma, ahit
+antik, eski
+antika, eski, tuhaf
+antipati, sevmezlik, soŞukluk
+antipatik, sevimsiz, soğuk
+antlaşma, muahede
+antre, giriş
+antreman, egzersiz, idman, spor
+apaçık, belli, görünür, aşikâr, ayan
+apansız, aniden, ansızın, birdenbire
+aparmak, sürüklemek, çekip götürmek
+apışmak, şaşırmak
+apse, irin, cerahat
+aptal, budala, akılsız
+ar, utanma
+ara, aralık, açıklık, fasıla, içinde, karşılıklı ilgi, an, esna
+arabozan, fitneci, münafık
+aracı, vasıta, ara bulucu
+araç, vasıta, alet
+arakçı, hırsız
+araklamak, çalmak
+aralıklı, seyrek
+aramak, araştırmak, yoklamak
+aranmak, araştırılmak, yoklanmak, arzu edilmek, özlenmek
+ara sıra, bazen, zaman zaman
+arasız,; sürekli, her zaman
+araz, belirti, işaret
+arazi, alan, saha
+arbede, patırtı, kavga
+ardiye, ambar, depo
+arı, temiz, saf
+arık, zayıf, çelimsiz
+arılık, zayıflık, sadelik
+arınmak, temizlemek
+arıza, engel
+arızalı, bozuk, dal
+arif, bilgili, pi
+ariyet, ödünç
+ark, kanal, su yolu
+arka, geri, sırt, son, art, kayırıcı, yardımcı
+arkadaş, dost
+arkalamak, korumak
+arlanmak, utanmak
+armada, donanma, filo
+armağan, hediye
+armağan etmek, bağışlamak
+armoni, uyum
+arsız, utanmaz, yüzsüz
+art, arka
+artakalan, artık, fazla, artmış, Ziyade
+artık, gayrı
+artımlı, çoğalan
+artırım, tasarruf, tutum, iktisat
+artist, oyuncu
+artistik, sanatlı
+artmak, çoğalmak
+arz, sunmak
+arz, yeryüzü, yer
+arzu, istek, dilek, heves, sevda
+arzuhal, dilekçe
+asabi, sinirli, huysuz
+asabileşme, kızma
+asal, esas, başlıca
+asalak, bedavacı, parazit
+asalet, soyluluk, asillik
+âsân, kolay
+asayiş, güvenlik, düzenlik, emniyet
+asgari, en az, minimum
+asıl, gerçek
+asır, yüzyıl, çağ
+asi, başkaldıran, isyancı
+asil, soylu, yüce duygulu, esas, gerçek
+asistan, yardımcı
+asla, hiçbir zaman, katiyen
+asli, baş, temel, esas,ana
+asmak, tutturmak, sarkıtmak, sallandırmak, takmak, boş vermek, ertelemek, bırakmak
+asri, modern, çağcıl
+asrileşmek, modernleşmek
+ast, alt
+asude, sessiz, rahat
+asuman, gökyüzü
+aş, yemek
+aşağı, dip, kötü, adi,az
+aşama, rütbe, derece, mertebe
+aşağılık, adilik, değerSİZ
+âşık, vurgun, düşkün, ozan, sevdalı, tutkun
+aşınmak, yıpranmak, eskimek
+aşırı, taşkın, çok zorlu, 3 fevkalade
+aşırmak, çalmak, araklamak
+aşikâr, belli
+aşikâre, açıkça, alenen
+aşina, dost, bildik, tanıdık
+aşinalık, tanışıklık
+aşiret, oymak
+aşmak, atlamak
+at, beygir
+ata, cet
+atak, cüretkâr
+ataklık, cesaret
+atalet, miskinlik
+atamak, tayin etmek
+ateist, dinsiz
+ateşlemek, tutuşturmak, alevlendirmek
+ateşlenmek, hararetlenmek, ısısı artmak, aşka gelmek
+ateşli, coşkun, hararetli
+ateşperest, ateşe tapan, Mecusi
+atıcı, nişancı, yalancı, palavracı
+atıl, işlemez
+atılgan, girişken, korkusuz, cüretkâr, hamleci
+atılganlık, cesaret
+atılım, hamle
+atışma, kavga
+atıştırmak, yemek
+ati, gelecek,
+atik, çevik, eski
+atlama, aşma, sıçrama
+atlatmak, kurtulmak
+atlı, süvari
+atmak, fırlatmak
+atölye, işlik
+aval aval, aptal aptal
+avam, halk
+avanak, budala
+avanta, kazanç, beleş, bedava
+avane, yardakçılar
+avare, işsiz, aylak
+avdet, dönüş
+avlamak, yakalamak, tutmak, kandırmak, aldatmak
+avlanmak, yakalanmak, avcılık etmek
+avrat, kadın
+avunmak, oyalanmak, teselli olmak
+avuntu, teselli
+avutmak, yatıştırmak, oyalamak, teselli etmek
+ay, mehtap, mah, kamer
+ayakkabı, iskarpin, kundura, pabuç
+ayaklanma, isyan
+ayan, belli, açık
+ayartmak, kandırmak, aldatmak
+ayazlamak, soğumak, donmak, üşümek
+aydın, münevver, entelektüel, açık, belli
+aydınlatmak, ışıtmak, tenVİr
+aygıt, alet
+ayıklamak, temizlemek
+ayıp, kusur, eksiklik, leke, damga
+ayıplamak, kınamak
+ayırmak, seçmek, tutmak, yeğlemek
+aykırı, ters, karşıt, münasebetsiz, uymayan
+aylak, işsiz, serseri, başıboş
+aylık, maaş
+aymak, ayılmak, uyanmak, kendine gelmek
+aymaz, gafil, dalgın, budala
+ayraç, parantez
+aynı, eş, benzer
+ayrı, ırak, yalnız, tek
+ayrıca, tek, yalnız, özenerek
+ayrıcalık, imtiyaz
+ayrılmak, gitmek, uzaklaşmak
+ayrılış, veda
+ayrım, fark
+ayrıntı, teferruat, detay, tafsilat
+ayrışık, aykırı karşın, türlü, çeşitli
+aysberg, buzdağı
+ayyaş, sarhoş, içkici
+az, eksik, noksan, biraz, kıt, seyrek
+aza, Üye
+azade, serbest, özgür
+azat etmek, koyuvermek, serbest bırakmak, özgür kılmak
+azaltmak, eksiltmek, aşagı düşürmek
+azamet, ululuk
+azami, maksimum, en büyük, en çok
+azap, sıkıntı, üzüntü
+azarlamak, paylamak, çıkışmak, terslemek, haşlamak
+azat, hür, serbest
+azgın, kudurmuş
+azıcık, biraz
+azık, gıda
+azılı, azgın
+azınlık, ekalliyet
+azıtmak, çığırından çıkarmak
+azil, atma, çıkarma, bırakma, kaldırma
+azim, kararlılık, sebat
+aziz, ermiş, eren, sevgili, kutsal
+azizlik, muziplik, şaka
+azletmek, görevden almak, uzaklaştırmak
+azman, büyük, iri
+azmetmek, karar vermek
+baba, peder
+babaanne, büyük anne
+babacan, cana yakın, kalender
+babalanmak, öfkelenmek
+babayiğit, kahraman, mert, yürekli
+bacak, ayak
+bacı, kız kardeş
+badire, tehlike
+bagaj, yük
+bağ, bahçe, demet, deste, denk, balya, sargı, ilgi
+bağdaşmak, anlaşmak, uyuşmak
+bağfiil, ulaç
+bağımlı, tâbi, bağıntılı, bağlı
+bağımsız, müstakil, kayıtSIZ, özgür, hür
+bağımsızlık, istiklal, hürriyet, özgürlük
+bağır, göğüs
+bağırmak, seslenmek, haykırmak
+bağış, teberru, hibe
+bağışık, muaf
+bağışıklık, muafiyet
+bağışlamak, affetmek, hibe etmek, hediye etmek
+bağlamak, düğümlemek, anlaşma yapmak, takmak, geçirmek, bitirmek, maaş vermek, tesir etmek
+bağlanmak, sevmek
+bağlantı, ilgi, irtibat
+bağlı, vefalı
+bağlılık, sadakat, ilgi
+bağnaz, geri kafalı, mutaassıp
+bağnazlık, geri kafalılık, taassup
+bahadır, kahraman, yiğit
+bahane, sebep, neden
+bahçe, bağ
+bahis, konu, mevzu
+bahsetmek, konuşmak, değinmek
+bahşetmek, bağışlamak
+baht, talih, şans
+bahtiyar, mutlu, mesut
+bahtiyarlık, mutluluk
+bahtsız, talihsiz, şanssız
+bahusus, özellikle, hele
+bakım, özen, ihtimam
+bakımlı, mamur, eskimemiş, yıpranmamış
+bakış, nazar
+baki, kalıcı, sürekli, ölümsüz
+bakir, bozulmamış, temiz kalmış, işlenmemiş
+bakire, erden, kız
+bakiye, kalan, geriye kalan, kalıntı, artık
+bakmak, bakınmak, göz atmak, gözlemek, göz gezdirmek, seyretmek nazar etmek
+bakraç, kova
+bala, çocuk, yavru
+balaban, iri, büyük
+balabanlaşmak, irileşmek, büyümek
+baldırı çıplak, serseri
+balıketi, dolgunca, şişman
+baliğ, ergin, reşit
+baltalamak, sabotaj yapmak, güçleştirmek
+bambaşka, büsbütün, apayrı
+banal, bayağı
+bandırmak, daldırmak
+bando, mızıka
+bant, şerit
+banyo, haman, sauna
+baraj, bent
+barbar, uygarlaşmamış, medenileşmemiş, kaba, kırıcı, insafsız
+barınmak, saklanmak, korunmak, sığınmak
+barış, sulh
+barışçı, barışsever, sulhsever
+bariz, açık, belirgin
+basamak, derece, aşama
+basbayağı, alışılmış, tabii, âdeta, olağan
+basık, yassılaşmış, çökük, ingin
+basılı, matbu, basma
+basılmak, sıkıştırılmak
+basımevi, matbaa
+basınç, tazyik, sıkıştırma
+basiret, sağgörü
+basit, kolay, süssüz, gösterişsiz, bayağı, aşağılık, adi, basmakalıp
+baskın, üstün, acar, saldırı, hücum, batırmak
+baskül, tartı
+basmakalıp, basit, klişe
+bastıbacak, bücür, bacaksız (mecaz)
+bastırmak, sıkıştırmak, birinci olmak, hemen gelmek
+baş, kafa, kelle, başlangıç, başkan, uç, esas, temel
+başarı, muvaffakiyet, beceri
+başarısız, beceriksiz, muvaffakiyetsiz
+başarmak, muvaffak olmak, becermek
+başat, hükmeden, egemen, hâkim
+başbakan, başvekil
+başbuğ, lider, önder, reis
+baş eğme, boyun eğme, itaat, teslimiyet, kölelik
+başgöz etmek, evlendirmek
+başıboş, serbest, hür, kayıtsız
+başıbozuk, düzensiz, gelişigüzel
+başı dinç, rahat
+başıkabak, saçsız
+başına buyruk, bağımsız, özgür
+başkalaşmak, değişmek
+başkan, reis, şef, önder, elebaşı
+başkası, diğerleri, ötekisi
+başkâtip, başyazman
+başkent, başşehir
+başkomutan, başkumandan
+başkumandan, başkomutan
+başlamak, girişmek, harekete geçmek, muameleye koymak
+başlangıç, ön söz, en önce
+başlayış, giriş
+başmuharrir, başyazar
+başörtülü, eşarplı, örtülü
+başsağlığı, taziye
+başsız, lidersiz, öndersiz, amirsiz, Teissiz, şefsiz
+başşehir, başkent
+baştan, tekrar, yeniden
+baştansavma, gelişigüzel
+batak, bataklık, batmış, faydasız, mahvolmuş
+batakçı, dolandırıcı, müflis
+batı, garp
+batık, batmış, boğulmuş
+batıl, temelsiz, çürük, boş
+batın, kuşak, nesil, göbek
+batma, boğulma, gömülme, gurup, çökme
+batmak, boğulmak, gömülmek, dalmak, inmek, gurup etmek, iflas etmek, çökmek, kaybolmak
+battal, kaba
+batur, yiğit, bahadır, kahraman, korkusuz
+bayağı, aşağılık, basit, degersiz
+bayağılaşmak, adileşmek, aşağılaşmak, basitleşmek
+bayağılık, adilik, alçaklık, zillet
+bayan, hanım, kadın
+baygın, sersemleşmiş, kendinden geçmiş
+bayılmış, sevdalı, âşık
+bayılmak, sersemlemek, süzülmek, fenalaşmak
+bayındır, mamur, bakımlı
+bayi, satıcı, acente
+bayrak, alem
+baytar, veteriner
+bazen, arada, ara sıra, arada bir
+bazı, birtakım, kimi, arada bir, ara sıra, kimi, vakit
+bebe, bebek
+becayiş, değişme
+beceri, maharet, ustalık
+becerikli, usta, hünerli, mahir
+beceriklilik, ustalık, hünerlilik, maharetlilik
+beceriksiz, hünersiz, maharetsiz, acemi, bilgisiz
+becermek, başarmak
+bed, kötü
+bedava, karşılıksız, parasız, meccani, ücretsiz, bila ücret
+bedavacı, beleşçi, otlakçı, asalak
+bedbaht, mutsuz, talihsiz, bahtsız
+bedbin, kötümser, karamsar
+beddua, ilenme, lânet
+bedel, karşılık, fiyat, kiymet
+bedelsiz, karşılıksız, bedava, parasız
+beden, gövde, vücut
+bedevi, göçebe
+bedir, dolunay
+beğeni, tercih etme, istek, zevk
+beğenmek, hoşlanmak, hazzetmek
+behemehal, mutlaka, ne olursa olsun
+beher, her bir
+behişt, cennet
+beis, engel, mâni, pürüz
+beka, kalım, ölümsüzlük
+beklemek, oyalanmak, eğlenmek, gözlemek, ummak
+bekri, sarhoş
+bel, geçit, derbent
+bela, felaket, musibet
+belde, şehir, kasaba
+beleş, karşılıksız, bedava
+beleşçi, bedavacı
+belge, vesika, doküman
+belgin, açık, ünlü
+belgisiz, silik, belirsiz
+belirgin, bariz, seçkin, açık, besbelli
+belirli, muayyen, belli
+belirsiz, müphem
+belirteç, zarf
+belirti, alamet, iz, işaret, im, nişan, simge, sembol, ipucu  delil
+bellek, hafıza
+bellemek, öğrenmek
+belletmek, öğretmek, ez, berletmek, göstermek
+belli, meydanda, aşikâr, muayyen, belirli, açık, sade, aleni
+bembeyaz, apak
+ben, benek
+bencil, egoist, hodkâm
+bencillik, egoistlik
+benek, ben, çil
+benekli, noktalı, lekeli
+bengi, ebedi, daimi
+bengi su, abıhayat
+benimsemek, sahip çıkmak, kabul etmek
+bent, set
+benzer, eş
+benzetme, teşbih
+beraat, arınma, aklanma, temize çıkma
+beraber, birlikte
+berbat, kötü, pis, fena
+berduş, serseri
+bere, başlık
+bereket, bolluk, verimlilik
+bereketli, bol, verimli, gür, feyyaz
+berelemek, hırpalamak
+bereli, yaralı, ezikli, zedeli
+berk, katı, sert, sağlam, dayanıklı
+berkitmek, sağlamlaştırmak
+berrak, duru, saydam, temiz, net, arı, pak
+berraklaşmak, odurulaşmak, saydamlaşmak, temizlenmek, netleşmek, arılaşmak, parlaklaşmak
+bertaraf, yok etme
+besbelli, apaçık, şüphesiz
+besili, semiz
+besin, azık, erzak, gıda
+besleme, büyütme, evlatlık
+beslemek, doyurmak, yetiştirmek, geçindirmek
+bestekâr, besteci
+beşaret, müjde
+beşer, insan
+beşeri, insani
+beşeriyet, insanlık
+beter, çok kötü, berbat
+beti, şekil, biçim
+betimlemek, tasvir etmek
+beyan, bildirme, açıklama, söyleme
+beyanat, demeç
+beyanname, bildiri
+beyaz, ak
+beyazlatmak, ağartmak, temizlemek
+beygir, at
+beyhude, boşuna, yararsız
+beyin, dimağ
+beyinsiz, akılsız, düşüncesiz, ahmak
+beylik, alelade, basmakalıp
+beynelmilel, uluslararası, milletlerarası
+bezdirmek, bıktırmak, usandırmak
+bezek, süs
+bezeme, süsleme
+bezgin, yılmış, bıkkın
+bezirgân, tüccar
+bezmek, bıkmak, usanmak
+bıçkın, külhanbeyi, serseri
+bıdık, kısa, tıknaz
+bıkkın, bezgin, usanmış
+bıkkınlık, usanç
+bıkmak, usanmak, bezmek
+bıktırmak, usandırmak, bezdirmek
+bıngıldamak, titremek, kımıldamak
+bırakmak, koyuvermek, vazgeçmek, terk etmek
+bibi, hala
+biçare, zavallı
+biçim, şekil
+biçimlendirmek, şekillendirmek
+biçimli, güzel, yakışıklı
+biçimsiz, çirkin, sevimsiz, yakışıksız
+biçmek, kesmek, doğramak, ayırmak, bölmek, hasat etmek
+bidayet, başlangıç
+bigâne, ilgisiz, aldırışsız
+bigünah, günahsız
+bihaber, habersiz
+bilahare, sonra
+bilakis, tersine
+bila ücret, bedava, karşılıksız, parasız
+bildik, tanıdık, aşina
+bildiri, tebliğ, beyanname
+bildirmek, haber vermek, sunmak, söylemek, ilan etmek
+bilemek, keskinleştirmek
+bileşim, tertip
+bilge, bilgin, âlim, allame, üstat
+bilgi, malumat
+bilgin, âlim, bilge, üstat
+bilgisiz, cahil, okumamış, acemi, malumatsız
+bilhassa, özellikle
+bilim, ilim
+bilimsel, ilmi
+bilinç, şuur
+bilinçaltı, şuuraltı
+bilinçdışı, şuursuzca
+bilinçli, şuurlu
+bilindik, malum, bilinen
+bilinen, bilindik, malum
+bilinmeyen, meçhul
+bilirkişi, uzman, eksper
+biliş, hakkıyla bilme, tanıdık, ahbap
+bilmek, anlamak, öğrenmek
+bilmez, cahil
+bilmezlik, cehalet
+bilumum, bütün
+bina, yapı
+bindirmek, çarpmak
+binici, süvari, atlı, sipahi
+bir, tekyalnız, eşit
+biraz, azıcık
+birçok, çok, pek çok
+birden, ansızın
+birey, fert
+bireysel, ferdi
+biricik, yegâne, tek
+birikmek, yığılmak, toplanmak
+biriktirmek, toplamak,
+birinci, ilk, iyi
+birincil, en ilk
+birleşim, toplantı, oturum, meclis
+birleşmek, bütünleşmek, uyuşmak, kaynaşmak, yaklaşmak, yapışmak
+birlikte, beraber
+bisturi, neşter
+bitap, yorgun, güçsüz
+bitaraf, yansız, tarafsız
+bitek, verimli
+biteviye, sürekli, yeknesak
+biteviyelik, süreklilik, yeknesaklık
+bitimli, sonlu, sonuçlu, neticeli
+bitimsiz, sonsuz, sonuçsuz, neticesiz
+bitirmek, sonuçlandırmak, tamamlamak, tüketmek, mahvetmek
+bitişik, yapışık
+bitki, nebat
+bitkin, hâlsiz
+bitkinlik, cansızlık, yorgunluk
+bitkisel, nebati
+bitmek, tükenmek, tamamlanmak, son bulmak, mahvolmak
+bivefa, vefasız
+biyografi, yaşam öyküsü
+bizar, bıkkın
+bizzat, kendi, kendisi
+blöf, korkutma
+bodur, tıknaz, bacaksız, bastıbacak, bücür
+boğazlamak, öldürmek, kesmek
+boğazlı, obur, iştahlı, pisboğaz
+boğucu, sıkıntılı
+boğulmak, ölmek, sıkılmak
+boğuşma, kavga
+bohça, çıkın
+bol, geniş
+bol, çok, bereketli
+bollanmak, çoğalmak, artmak, fazlalaşmak
+bolluk, verimlilik, refah, dirlik, bereket, feyz
+bomboş, 1ssız
+bone, başlık
+bonkör, cömert
+bora, fırtına
+boran, fırtına
+borç, ödünç, ödev
+borçlu, verecekli
+boş, hâli, kof
+boş, boşuna, yararsız, yersiz, saçma sapan
+boşaltmak, bırakmak, tahliye etmek, dökmek, aktarmak
+boşanmak, ayrılmak, ipini koparmak, serbest kalmak, harlamak, şakır şakır yağmak
+boşboğaz, geveze
+boşlamak, ihmal etmek, alakadar olmamak
+boşluk, kofluk, çürüklük, vakum, feza, eksiklik
+boşuna, nafile, beyhude, boş yere
+boy, kabile
+boyalı, boyanmış, süslü
+boylu, endamlı, uzun boylu, boylu boslu
+boynu bükük, üzgün
+boysuz, tıknaz, botur, bacaksız, bastıbacak
+boyuna, boyunca, uzunlamasına, durmaksızın, uzayarak, aralıksız, ara vermeksizin
+boyunbağı, kravat
+boyut, uzunluk, genişlik, derinlik
+bozgun, yenilgi, mağlubiyet, hezimet
+bozgunculuk, ordu bozanlık, fesatçılık, fitnecilik
+bozkır, step
+bozmak, sakatlamak, kırmak, kötüleştirmek, bozukluk yapmak, ufak hâle getirmek, küçümsemek, ekin biçmek
+bozuk, kusurlu, sakat, düzensiz, hurda, dargın
+bozuşmak, darılmak
+böbürlenmek, büyüklenmek, kabarmak, kibirlenmek, şişinmek
+bölge, mıntıka
+bölgesel, mahalli, yöresel, yerel
+bölmek, taksim etmek, üleştirmek, bölüştürmek, parçalamak
+bölük, bölüm, kısım, parça
+bölümlemek, sıralamak, sıraya koymak, sınıflamak
+bölüşmek, üleşmek, paylaşmak, taksim etmek
+bön, budala, saf
+böyle, şöylece, gibi, şekilde, bunun gibi, bu biçimde, bu yolda, bu çeşit
+böylece, böylelikle
+buçuk, yarım
+budala, ahmak, aptal, bön, enayi, avanak, beyinsiz
+budamak, kısaltmak, kesmek
+budun, millet, ulus
+buğu, buhar, pas
+buhar, buğu, pus
+buhran, bunalım
+buhur, tütsü
+bulak, pınar, kaynak
+bulanık, donuk, puslu
+bulaşık, kirli
+bulaşmak, kirlenmek, sürülmek, sirayet, çatmak
+bulgu, buluş, keşif, icat
+bulmak, elde etmek, türetmek, keşfetmek, icat etmek
+buluş, icat
+buluşmak, kavuşmak
+bulutlanmak, kararmak
+bunak, bunamış
+bunalım, buhran, sıkıntı, kriz
+bunalmak, sıkıntı duymak, nefesi daralmak, içi sıkılmak
+burç, hisar
+burkmak, kıvırmak, döndürmek, çevirmek
+burnu havada, kibirli
+burulmak, obükülmek, kıvrılmak
+buruntu, sızı, ıstırap
+buruşmak, kırışmak
+buruşuk, kırışık, kırış kırış, pürüzlü
+buse, öpücük
+buut, boyut
+buyruk, emir, ferman, komut
+buyurmak, emretmek, fikrini bildirmek (saygi
+buzdağı, aysberg
+buzlanmak, donmak
+bücür, kısa boylu, bodur, bastıbacak
+bühtan, iftira
+bükmek, kıvırmak, eğirmek, katlamak, rulo yapmak
+bükük, kıvrık
+büluğ, erginlik, erinlik, baliğ olmak
+bürhan, delil, belge
+bürünmek, sarınmak, kapanmak
+büsbütün, tamamen, tamamıyla, iyiden iyiye
+bütün, eksiksiz, tam, yekün, birlik, beraberlik
+bütünleme, tamamlama, ikmal etme
+büyü, efsun, sihir
+büyücek, irice
+büyük, iri, kocaman, geniş, azman
+büyük anne, nine, babaanne
+büyük baba, dede
+büyükelçi, sefir
+büyüklenmek, kibirlenmek, gururlanmak, övünmek
+büyüklük, irilik, kocamanlık, yaşlılık, ululuk
+büyülemek, hayran bırakmak, efsunlamak, şihirlemek
+büyülü, büyülenmiş, efsunlanmış, sihirlenmiş
+büyüteç, adese, pertavsız
+büyütme, abartma, mübalağa, yetiştirme, besleme
+büzülmek, sinmek, buruşmak, kırışma
+caba, karşılıksız, bedava, meccanen
+cadaloz, huysuz, kocakarı
+cadı, cadaloz, huysuz, kocakarı
+cafcaf, şatafat, gösteriş
+cafcaflı, gösterişli, şatafatlı
+cahil, bilgisiz, deneyimsiz, tecrübesiz
+cahillik, bilgisizlik, deneyimsizlik, tecrübesizlik
+caiz, uygun, yerinde, gerekli, olabilir
+caize, bahşiş, armağan
+caka, gösteriş, çalım
+cambaz, akrobat, kurnaz, hileci
+camekân, vitrin
+camia, topluluk, cemaat
+camus, manda
+can, ruh
+canan, sevgili, âşık
+can atmak, istemek, arzulamak
+cana yakın, sevimli
+canciğer, içten
+candan, samimi, içten
+cani, katil
+canip, yan, yön cihet
+cankurtaran, ambulans
+canlandırmak, diriltmek, gayrete getirmek
+canlanmak, iyileşmek, kendine gelmek, kıpırdanmak, zindeleşmek
+canlı, diri, güçlü, etkili, yaratık
+canlılık, dirilik, güçlülük, etkinlik
+can sıkıcı, bunaltıcı, bogucu, kasvetli
+cansız, ölmüş, güçsüz, hareketsiz
+carcar, geveze
+cari, akan, akar, geçerli, yürür, yürürlükte olan
+cariye, halayık, esir, köle, tutsak, hizmetçi
+casus, ajan, çaşıt
+cavlak, tüysüz, çıplak, boş, örtüsüz, yalın
+caymak, vazgeçmek, dönmek, kararını değiştirmek
+cazibe, alım
+cazibeli, alımlı, çekici, gösterişli, albenili, cazip
+cazip, alımlı, çekici
+cebir, zor, baskı, zorlama, zorlayış
+cebren, zorla
+cedit, yeni
+cefa, eziyet, sıkıntı, azap, eza
+cefakâr, cefa eden, üzücü, cefa çeken, eza çekmiş
+cefakeş, üzüntü çeken
+cehalet, bilmezlik, bilgisizlik, cahillik, tecrübesizlik
+cehennem, tamu
+cehennemlik, günahkâr
+ceht, çaba, gayret
+celadet, yiğitlik, bahadiırlık
+celal, büyüklük, ululuk, hiddet
+celallenmek, öfkelenmek
+celp, getirtme, çağırma
+celse, oturum, toplantı
+cemaat, topluluk, toplum
+cemal, güzellik, hüsün
+cemil, güzel
+cemiyet, dernek, topluluk
+cengâver, savaşçı, cenkçi
+cenk, savaş, harp
+cennetlik, cennetmekân, günahsız, iyi
+centilmen, görgülü, kibar, çelebi (erkek)
+cenup, güney
+cerahat, irin
+cerbezeli, konuşkan, girgin
+cereme, Zarar
+cereyan, akım, akıntı
+ceride, gazete
+ceriha, yara
+cerrah, operatör
+cesamet, büyüklük, irilik
+cesaret, yüreklilik, gözüpeklik, bahadırlık, ataklık, atılganlık
+cesaretlenmek, yüreklenmek, cüretlenmek
+cesaretli, gözüpek, bahadır, yiğit, acar, cesur
+ceset, ölü, cenaze, naaş
+cesim, büyük, iri
+cesur, yürekli, atılgan, korkusuz, gözüpek, cesaretli
+cet, ata
+cevap, yanıt, karşılık
+cevaz, izin
+cevdet, iyilik, saflık, kusursuzluk
+cevir, cefa, eziyet
+ceylan, ahu, gazal
+ceza, eziyet, mücazat
+cezaevi, hapishane, tutukevi
+cezbetmek, hayran etmek, göz almak, çekmek
+cezir, çekilme, gitme, inme
+cıbıl, çıplak
+cılız, zayıf, güçsüz, kuru, sıska, çelimsiz
+cıvık, sulu, gevşek, şımarık
+cıvıtmak, cıvık olmak, çığrından çıkmak
+cibilliyet, yaradılış
+cibilliyetsiz, soysuz
+cici, güzel, iyi, hoş
+cicili bicili, süslü, bezekli, cafcaflı
+cidal, savaş
+cidar, duvar
+cidden, gerçekten, hakikaten
+ciddi, ağırbaşlı, şakasız, güvenilir, gerçek
+ciddilik, ağırbaşlılık
+cihan, dünya, evren, âlem, acun
+cihangir, fatih
+cihat, savaş, harp
+cihaz, aygıt
+cilalamak, parlatmak
+cilasun, bahadır, yiğit
+ciltçi, mücellit
+cilve, naz, eda
+cimri, hasis, pinti, varyemez, eli sıkı
+cinnet, delilik
+cins, çeşit, tür
+cisim, madde, gövde
+civanmert, yiğit
+civar, yöre, dolay, çevre
+civelek, neşeli, sokulgan, sevimli, hareketli, hoppa
+coşkun, taşkın, ateşli, heyecanlı, hareketli
+coşmak, ateşlenmek, heyecanlanmak, hararetlenmek, şahlanmak, kudurmak
+coşturmak, heyecanlandırmak, ateşlendirmek
+cömert, eli açık, bonkör
+cumhur, halk, topluluk
+cumhurbaşkanı, reisicumhur
+curcuna, gürültü, patırtı, şamata
+cüce, bodur, bacaksız, bücür
+cüda, ayrı, uzak
+cümbüş, eğlenti, eğlence
+cümle, tümce, hep, bütün, ibare
+cüret, ataklık, cesaret
+cürüm, suç
+cüsse, beden, vücut, gövde
+cüsseli, iri yarı
+cüz, parça
+cüzi, az, azıcık
+çaba, gayret, emek, çalışma, ceht
+çabalamak, gayret etmek, çalışmak, uğraşmak, ceht etmek
+çabucak, çarçabuk, hemencecik
+çabuk, tez, acele, ivedi, hemen, süratli
+çabuklaşmak, tezleşmek, ivedileşmek, süratlenmek
+çabukluk, tezlik, sürat
+çaçaron, geveze, çenesi, düşük, çenebaz, konuşkan
+çağ, vakit, zaman, yaş, devir
+çağcıl, modern, asri
+çağdaş, muasır, asri, modern
+çağırmak, seslenmek, bağırmak, haykırmak, davet etmek, okumak
+çağlayan, şelale, çavlan, çağlar
+çağrı, davet, okuma
+çakırkeyf, sarhoş
+çakışmak, kenetlenmek, bağlanmak, birleşmek
+çakmak, vurmak, anlamak
+çakşır, şalvar
+çaktırmadan, gizlice
+çalak, atik
+Çalap, Tanrı, Allah, Mevla
+çalçene, konuşkan, geveze
+çalım, gösteriş, tafra, şişinme, kibir
+çalımlı, gösterişli, kibirli, kurumlu
+çalışkan, hamarat, becerikli, işgüzar, gayretli
+çalışma, uğraşma, mesai, gayret
+çalmak, aşırmak, hırsızlık yapmak, çarpmak
+çam devirmek, pot kırmak
+çamur, balçık, sataşkan, kötü
+çamurlamak, sıvamak, kirletmek, kötülemek
+çapaçul, kılıksız, hırpani
+çapkın, zampara, hovarda, donjuan
+çapraşık, karışık, müşkül, çetrefil
+çapulcu, yağmacı, hırsız
+çaput, paçavra, bez
+çarçabuk, tez, hemencecik
+çarçur etmek, boşuna harcamak, saçıp savurmak
+çare, tedbir, önlem, ilaç, derman
+çaresiz, naçar, biçare, iyileşmez, onulmaz
+çarmıh, haç, istavroz
+çarpık, eğri, eğri büğrü
+çarpıtmak, eğriltmek, yamultmak
+çarpık çurpuk, eğri büğrü
+çarpmak, vurmak, hızla değmek, bindirmek, toslamak, hırsızlık etmek, aşırmak
+çaşıt, casus, ajan
+çatallaşmak, zorlaşmak, güçleşmek, karışmak
+çatık, somurtkan, asabi, sinirli, öfkeli
+çatışma, çarpışma, kavga, müsademe, münakaşa
+çatlak, yarık, deli, divane
+çatlatmak, yarmak, , kıskandırmak, sıkıntı vermek, çok ağlatmak
+çatmak, bulaşmak, saldırmak, sataşmak
+çavlan, çağlayan, şelale
+çehre, yüz, surat
+çekecek, kerata
+çekememek, kıskanmak, katlanamamak
+çekici, cazip, alımlı
+çekingen, ürkek, utangaç, içine kapanık
+çekinmeden, korkusuzca
+çekişme, kavga, yarışma, mücadele
+çekişmek, kavga etmek, tartışmak, bozuşmak, mücadele etmek, yarışmak
+çekiştirmek, dedikodu etmek
+çelebi, efendi, terbiyeli
+çelimsiz, zayıf, cüssesiz
+çelişki, aykırılık, aksi, tezat
+çelişkili, tutarsız
+çember, daire, halka
+çember, yemeni, yazma
+çenebaz, çalçene, konuşkan
+çentik, kertik, tırtık
+çepeçevre, firdolayı
+çeri, asker
+çeşit, cins, tür, kalite, takım, kategori
+çeşm, göz
+çeşni, tat, lezzet
+çetin, zorlu, zor, güç, sert
+çetrefil, karışık, zor anlaşılır
+çevik, atik, hareketli, kıpırdak
+çeviri, tercüme
+çevirmek, döndürmek, tercüme etmek, çeviri yapmak, kuşatmak, sarmak, yöneltmek, doğrultmak
+çevirmen, tercüman
+çevre, muhit, etraf, yöre, civar, dolay, bölge, mıntıka
+çevrelemek, kuşatmak, sarmak, çevirmek, SInurlamak
+çığır, tarz
+çığlık, feryat, figan, bağırış
+çıkar, menfaat
+çıkarcı, menfaatçi, menfaatperest
+çıkarmak, sökmek, koparmak, ihraç etmek, yayımlamak, neşretmek
+çıkın, bohça
+çıkışlı, mezun
+çıkışmak, azarlamak
+çıkışmamak, yetmemek, az gelmek
+çıkmak, görünmek, gitmek, eksilmek, mezun olmak, ayrılmak, tırmanmak, duyulmak, doğmak
+çıkmaz, dipsiz, sonsuz, sonuçsuz, neticesiz
+çıldırmak, delirmek, oynatmak
+çılgın, deli
+çıplak, soyunuk, anadan doğma, cıbıldak, örtüsüz
+çırpınmak, kıvranmak, debelenmek, tepinmek
+çıtı pıtı, minyon, ufak tefek, sevimli
+çıt yok, sessiz, sakin
+çift, çifte, eş
+çiftçilik, rençberlik
+çiftelemek, tekmelemek
+çiğ, pişmemiş, görgüsüz
+çiğnemek, ezmek, takmamak
+çil, leke, benek
+çile, azap, eza, zahmet, cefa, sıkıntı
+çilekeş, dertli, çile çekmiş
+çileli, sıkıntılı
+çilenti, serpinti
+çim, çimen
+çimlenmek, yeşermek, otlanmak
+çimmek, yıkanmak
+çirkef, bulaşkan, şirret
+çirkin, biçimsiz, kaba, suratsız, bed, gudubet, zevksiz
+çizelge, cetvel
+çizik, çizilmiş, çizgi
+çocuk, evlat, bebe, oğul
+çoğalmak, artmak, üremek
+çoğul, cemi
+çoğunluk, ekseriyet
+çok, fazla, epey, hayli, külliyetli, aşırı, gür, epeyce, artık
+çokbilmiş, sinsi, kurnaz
+çokluk, çoğunluk, ekseriyet, kesret
+çoktan, eskiden, uzun zamandır
+çolpa, beceriksiz
+çomak, değnek
+çorak, verimsiz, kıraç, kurak
+çökmek, yıkılmak, oturuvermek, batmak, örtmek
+çöküntü, enkaz
+çöreklenmek, oturmak, yayılmak
+çözmek, açmak, kurtarmak, halletmek
+çözülmek, gevşemek, erimek, yumuşamak, yenilmek, dağılmak
+çözümleme, analiz, tahlil
+çukur, çökük, göçük
+çullanmak, abanmak, yüklenmek, yaslanmak
+çürük, bozulmuş, temelsiz, boş
+dadanmak, alışmak
+dağdağa, gürültü, telaş, rahatsızlık
+dağılmak, yayılmak, saçılmak
+dağınık, saçılmış, karışık, perişan, tarumar, dikkatsiz, derbeder, savruk, ihmalci
+dağıtıcı, müvezzi
+dağıtılmak, bozulmak, feshedilmek, tevzi edilmek
+dağıtmak, bölmek, tevzi etmek, pay etmek, üleştrmek, parçalamak, feshetmek
+dağlamak, yakmak
+daha, henüz
+dâhil, iç, içeri, içinde
+dâhili, iç, içeri
+dâhiliye, iç işleri
+daim, sürekli, devamlı, ara vermeden, her zaman
+daima, her zaman, devamlı
+daimi, sürekli, devamlı
+dair, ait, ilişkin, hakkında, üzerine
+dairesel, dairevi
+dairevi, dairesel
+dal, kol, bölüm, şube
+dalalet, sapkınlık
+dalamak, ısırmak
+dalaş, kavga, dövüş
+dalavereci, düzenbaz, hileci, hilekâr
+dalgı, dalgınlık, gaflet, aymazlık
+dalgın, dikkatsiz, gafil
+dalgınlık, dikkatsizlik
+dalkavuk, ikiyüzlü, yaltakçı, yardakçı, yağcı, şakşakçı
+dam, tuzak
+dam, çatı, ahır, ev, cezaevi
+dam, kavalye
+damat, güvey
+damga, mühür
+damgalamak, damga vurmak, lekelemek, karalamak, kötülemek
+damıtmak, imbikten geçirmek
+dangalak, avanak, bön, budala
+danışma, istişare, MÜracaat, müzakere, müşavere
+danışman, müşavir
+daniska, iyi, en iyi
+dar, ensiz, kıt, elverişsiz
+dar, güçlükle, zorlukla
+daralmak, sıkılaşmak, kısıtlanmak, bunalmak, sıkılmak
+darbımesel, atasözü
+dargın, küskün
+darılmak, küsmek, gücenmek, kırılmak
+darlık, yokluk, yoksulluk
+darmadağınık, karmakarışık, perişan
+darülfünun, üniversite
+davet, çağrı
+davetiye, duyuru
+dayanak, destek
+dayanıklı, sağlam, metin
+dayanıksız, çürük, güçsüz
+dayanmak, yaslanmak, abanmak, Çullanmak, katlanmak, sabretmek
+debdebe, görkem, şatafat
+debelenmek, çırpınmak
+dede, büyükbaba, ihtiyar, yaşlı
+dedikodu, çekiştirme
+defa, kere, kez, sefer, öğün, sefer
+defetmek, kovmak, saymak, savuşturmak
+define, gömü, hazine
+defnetmek, gömmek, toprağa vermek
+değer, kıymet, fiyat, bedel, ücret, meziyet, kıymet, erdem, fazilet
+değerbilir, kadirşinas
+değerli, kıymetli, erdemli, soylu
+değersiz, bayağı, adi, soySUZ
+değgin, ait, ilgili, dair
+değin, kadar, dek
+değinmek, bahsetmek, dokunmak, söz etmek
+değirmi, yuvarlak
+değişik, başka, bambaşka, farklı
+değmek, temas etmek, dokunmak, ellemek
+değnek, sopa
+dehr, dünya
+dehşet, korku, yılgı
+dehşetli, korkunç
+dejenere, soysuz, yoz
+dek, kadar, değin
+dek, hile, oyun, düzen
+dekolte, açık
+delege, murahhas
+deli, akıl hastası, kaçık, çılgın, mecnun, divane
+delidolu, patavatsız, delişmen
+delifişek, delişmen
+delil, kanıt
+delişmen, şımarık, delidolu, hoppa, delifişek
+dem, zaman
+dembedem, zaman zaman, ara sıra, bazen
+demeç, beyanat
+demet, bağ, deste
+Demirkazık, Kutup Yıldızı
+deneme, tecrübe, deney, sınama, yoklama, muayene, tetkik, prova, araştırma, imtihan, kontrol
+denet, kontrol
+denetçi, kontrolör
+denge, denklik, muvazene
+deni, alçak, aşağılık
+deniz, derya
+denk, eşit
+depo, ambar, ardiye
+denli, kadar
+densiz, kaba, terbiyesiz
+deprem, zelzele
+depresyon, bunalım
+depreşmek, nüksetmek, uyanmak
+derebeylik, feodalite
+derece, aşama, rütbe, mertebe, kademe, basamak, kıvam, seviye
+dergi, mecmua
+derhal, hemen
+deri, cilt, ten
+derlemek, toplamak, biriktirmek
+derman, güç, ilaç, çare
+dermansız, güçsüz, hâlSİZ, yorgun argın, bitik, takatsiz
+derme çatma, gelişigüzel
+dernek, cemiyet, kuruluş, kurum, lonca
+dershane, derslik
+dert, üzüntü
+dertli, üzgün, hasta
+derun, iç
+derviş, rint
+derya, deniz
+desise, hile, dalavere, düzen
+deste, demet, bağ
+destur, izin
+deşmek, kurcalamak
+detay, ayrıntı
+deva, ilaç
+devamlı, sürekli, mütemadiyen, daimi
+devinim, hareket
+devir, dönem, çağ
+devirmek, düşürmek, yıkmak, içmek
+devran, talih, dünya, kader, baht  zaman
+devre, dönem, çağ, zaman
+devretmek, aktarmak, havale etmek
+devrim, inkılap
+devriye, karakol
+devşirmek, toplamak, derlemek
+deyim, tabir
+dış, dışarı, hariç, taşra
+dışarı, hariç, taşra, dış
+dış alım, ithalat
+dış satım, ihracat
+dışbükey, konveks
+didaktik, öğretici
+didar, yüz, çehre
+difteri, kuşpalazı
+diğeri, başka, öbür, öteki, sair
+dik, yalçın, sarp
+dik kafalı, geçimsiz, inatçı, huysuz
+dikkat, özen
+dikkatsiz, savruk, dalgın, özensiz
+dil, gönül, lisan
+dilaver, bahadır, yiğit
+dilbaz, konuşkan
+dilber, güzel
+dildar, sevgili
+dilek, arzu, istek
+dilemek, istemek, rica etmek
+dilim, parça
+dilşat, mutlu, bahtiyar
+dimağ, beyin, zihin
+din, diyanet
+dinamik, hareketli, canlı
+dinç, esen, sağlam, güçlü, canlı, zinde
+dinçleşmek, canlanmak, güçlenmek
+dindar, dinibütün, mütedeyyin, mümin
+dindirmek, yatıştırmak, sakinleştirmek
+dingin, sakin, dinibütün; dindar
+dinlemek, kulak vermek, işitmek, söz dinlemek
+dinlence, tatil
+dinlenmek, istirahat etmek, soluklanmak, önemsenmek, sözü geçer olmak
+dinmek, kesilmek, durmak
+dinsel, dini
+diploma, şehadetname, icazetname
+dirayet, yetenek, beceriklilik, seziş
+direktif, yönerge, buyruk, talimat
+direktör, yönetici
+direnme, sebat
+diri, canlı, sağ, yaşayan, solmamış
+dirilmek, canlanmak
+dirim, hayat, yaşayış
+dirlik, huzur, refah
+disiplin, düzen, intizam
+dişlemek, ısırmak
+dişli, güçlü, arkalı, koruyuculu
+divane, deli, kaçık
+diyalekt, lehçe
+diyalog, konuşma, anlaşma
+diyanet, din
+diyar, ülke
+diyet, rejim
+dize, mısra
+dizgi, tertip, nizam
+dizgici, mürettip
+dizi, sıra, katar
+dizin, indeks
+dizmek, sıralamak
+doğa, tabiat
+doğal, tabii
+doğa ötesi, metafizik
+doğmak, dünyaya gelmek, belirmek, ortaya çıkmak
+doğramak, kesmek, dilimlemek
+doğru, düz, namuslu, dürüst, gerçek, yasal
+doğrulamak, onaylamak, teyit etmek, tasdik etmek
+doğrulmak, yönelmek, düzelmek
+doğrultu, istikamet, yön, cihet
+doğu, şark
+doğuşlu, asil, soylu
+doğuştan, yaradılıştan, fitKİ
+doktor, hekim, tabip
+doktrin, öğreti
+dokunaklı, üzücü, hüzünlü, acıklı, etkili
+dokunmak, değmek, ellemek, sürtünmek
+dokunulmazlık, ayrıcalık, imtiyaz, yükümsüzlük
+doküman, belge, vesika
+dolan, hile, düzen
+dolaşmak, gezmek, gezinmek, seyran etmek
+dolay, etraf, çevre, havali, yöre
+dolayı,  ötürü,  yüzünden,  sebebiyle
+dolaylı, aracılı
+dolmak, toplanmak, tamamlanmak
+doludizgin, son hızla
+donakalmak, şaşmak
+donanma, filo, armada
+donuk, mat, puslu, bulanık
+doruk, zirve
+dost, arkadaş, ahbap
+dostane, dostça
+doymaz, aç gözlü
+doyum, yetinme, kanaat
+doyurucu, kandırıcı, inandırıcı
+doz, miktar
+dökmek, boşaltmak, akıtmak, saçmak, salmak, bırakmak, açığa vurmak, söylemek
+dönem, devir, zaman
+dönmek, geri gelmek, caymak, devretmek, avdet etmek
+dönüş, geri geliş, avdet
+dönüşmek, başkalaşmak, değişmek
+döş, göğüs
+döşek, yatak
+döşeme, mefruşat
+dövüş, kavga, çekişme
+dramatik, acıklı
+dua, yakarış
+dubaracı, düzenbaz, hileci
+dumanlı, sisli, puslu
+durağan, sabit
+durak, konak, menzil
+durgun, keyifsiz, neşesiz, sakin, dingin, rakit
+durmadan, sürekli, aralıksız
+durmak, kesilmek, dinmek, işlememek, stop etmek
+duru, berrak, temiz, saf
+durum, vaziyet, hâl
+duyarlık, hassasiyet
+duygu, his
+duygulu, içli, hassas, hisli
+duygusuz, kalpsiz, ilgisiz
+duymak, işitmek
+duyuru, ilan, anons
+düğümlemek, bağlamak, ilmiklemek
+dünya, âlem, acun, evren
+dürüst, doğru
+düstur, kural
+düş, rüya
+düşman, hasım, adu
+düşmek, yuvarlanmak, yağmak, isabet etmek, alçalmak
+düşünce, fikir, kanı, anlayış, tasa, kaygı
+düşünceli, tasalı
+düşüncesiz, tasasız, kaygısız, fikirsiz
+düşünür, filozof
+düvel, devletler
+düyun, borçlar
+düz, doğru, sade
+düzelmek, iyileşmek
+düzeltme, tashih
+düzen, tertip, intizam, akort, hile
+düzenbaz, hileci, düzenci, dalavereci
+düzenci, hileci, düzenbaz
+düzenlemek, tertip etmek, tanzim etmek, organize etmek
+düzenli, düzgün, muntazam, tertipli, derli toplu
+düzey, seviye
+düzme, sahte, yalancı, yapmacık
+düzmece, uydurma, sahte
+düztaban, uğursuz
+düz yazı, nesir
+ebat, boyutlar
+ebedi, sonsuz, ölümsüz, bengi
+ebediyen, ilelebet, sonsuza kadar
+ebediyet, sonsuzluk
+ebemkuşağı, gökkuşağı
+ebeveyn, ana baba
+ebleh, budala, alık
+ebr, bulut
+ecdat, atalar, dedeler
+ecnebi, yabancı, el, ağyar
+eda, tavır, davranış
+edalı, çalımlı, nazlı, civelek, oynak, cilveli
+edat, ilgeç
+edebiyat, yazın
+edep, terbiye, incelik, zarafet
+edepsiz, şirret, terbiyesiz
+eder, fiyat, bedel
+edevat, aletler
+edilgen, meçhul
+edinmek, sağlamak, sahip olmak, kazanmak
+edip, yazar
+efe, zeybek, kabadayı
+efendi, terbiyeli, ağırbaşlı, kibar, saygılı
+efendilik, usluluk, kibarlık, ağırbaşlılık
+efkâr, fikirler, tasa
+efkârlanmak, üzülmek, tasalanmak
+efor, emek, çaba 
+efsane, söylence
+efsun, büyü, tılsım
+efsunlu, büyülü, tılsımlı
+egemen, hâkim, hükmeden
+egemenlik, hâkimiyet
+egoist, bencil
+egoistlik, bencillik
+egzama, mayasıl
+egzersiz, alıştırma, talim
+eğe, törpü
+eğiklik, meyil
+eğilim, yönelme, temayül
+eğim, meyil
+eğitici, mürebbi
+eğitimci, terbiyeci
+eğlence, âlem, cümbüş
+eğlenmek, oyalanmak, beklemek, âlem yapmak
+eğlenmek, alay etmek
+eğreti, geçici, ödünç
+ehemmiyet, önem
+ehil, usta, uzman, yetkili
+ehli, evcil
+ehliyet, yeterlilik, yetenek, kabiliyet, liyakat
+ehven, ucuz, hesaplı, yeğ
+ejderha, canavar
+ek, ilave
+ekalliyet, azınlık
+ekber, ulu, yüce
+ekip, takım
+eklem, mavsal
+eklemek, ilave etmek, tamamlamak, çoğaltmak, artırmak
+ekonomi, iktisat, tutum
+ekonomik, hesaplı, kazançlı
+eksen, dingil, aks, mihver
+ekseriya, çokluk
+ekseriyetle, genellikle
+eksik, noksan, kusurlu
+eksper, uzman, bilirkişi
+ekstra, nitelikli, iyi, vasıflı
+el, yabancı, ecnebi, el âlem
+el âlem, yabancı
+elan, henüz, hâlen
+elastiki, esnek
+elbette, şüphesiz, kuşkuSUZ
+elbise, giysi
+elçi, sefir
+elde etmek, kazanmak
+elebaşı, başkan
+ele geçirmek, tutmak, kazanmak
+eleğimsağma, gökkuşağı
+elek, kalbur
+elem, ağrı, acı, üzüntü
+eleman, öge, unsur
+elemek, ayıklamak, ayırmak
+eleştiri, tenkit, kritik
+eleştirmen, münekkit
+eli açık, cömert
+elim, acıklı, üzücü
+ellemek, dokunmak, değmek, okşamak
+eli sıkı, pinti, cimri
+elverişli, uygun, müsait
+elvermek, yetmek, uymak, uygun görmek
+emare, belirti, iz, İpUCU
+emek, çaba, çalışma, ceht
+emekçi, işçi
+emekli, tekaüt
+emel, arzu, istek, amaç, gaye, erek, maksat
+emin, tehlikesiz, güvenilir, inanılır
+emir, başkan
+emir, buyruk
+emniyet, güvenlik, inanma
+emretmek, buyurmak
+emrivaki, oldubitti
+emsal, benzer, eş, yaşıt, eşit, denk
+emsalsiz, eşsiz, benzersiz, tek
+emtia, mallar
+enayi, avanak, budala
+encümen, kurul, komisyon, komite
+endam, boy pos
+ender, nadir, seyrek, pek, az
+endişe, tasa, kaygı, korku, düşünce
+endişelenmek, tasalanmak, kaygılanmak
+endüstri, sanayi
+enerji, erk, güç
+enerjik, hareketli
+enez, cılız, zayıf, sıska
+enfes, fevkalade, en güzel
+engebeli, arızalı
+engel, mâni, sakınca, mahzur, pürüz
+engin, geniş
+enjektör, şırınga
+enikonu, iyice, iyiden iyiye, adamakıllı
+enkaz, yıkıntı, döküntü
+enli, geniş
+enselemek, yakalamak, tutmak
+entelektüel, aydın
+enteresan, ilginç, ilgi çekici
+enternasyonal, milletlerarası, uluslararası, beynelmilel
+entrika, dalavere, hile, oyun
+entrikacı, düzenci
+epey, çok, hayli
+epik, destansı
+er, erkek, asker, yigit, kahraman
+erbap, usta, ehil, yetkili
+erdem, fazilet, değer
+erek, gaye, amaç
+erganun, Org
+ergin, yetişmiş, olgunlaşmış, reşit
+erişkin, olgun, kâmil
+erkân, ileri gelenler, üstler, büyükler, kurallar
+erken, çabuk
+erkin, özerk, serbest, öZzgür, müstakil, bağımsız
+erkli, muktedir, nüfuzlu, güçlü
+ermek, ulaşmak, olmak, veli olmak
+ermiş, eren, veli
+ertelemek, geciktirmek, tehir etmek
+ertesi, gelecek, gelen
+erzak, azık, yiyecek
+esaret, tutsaklık, kölelik, boyunduruk
+esas, temel, asıl, asal, ana, gerçek
+esasından, temelinden, başından, kökünden
+esaslı, köklü
+esef, üzüntü, acı, teessüf
+eseflenmek, o yazıklanmak, acınmak
+esen, sıhhatli, sağlam, güçlü, gürbüz, canlı
+esenlik, sağlık, sıhhat, selamet
+eser, yapıt,iz3emare, belirti
+esin, ilham
+esinti, rüzgâr
+esir, tutsak, köle
+esirgemek, korumak, bağışlamak
+eski, kadim, bayat
+eskimek, yıpranmak
+esna, zaman, an
+esnek, elastiki
+esrar, sırlar, gizler
+esrarlı, gizemli
+essah, doğru
+esvap, elbise, giysi
+eş, eşit, benzer, denk, müsavi, zevce, karı, hanım, refika, koca
+eşanlamlı, anlamdaş, müteradif
+eşelemek, karıştırmak, kurcalamak
+eşitlik, müsavat, muadelet, müsavilik
+eşkal, şekil, biçim
+eşkiya, şaki, haydut, gangster
+eşme, kaynak
+eşsiz, benzersiz, emsalsiz
+etap, aşama
+etki, tesir, etkili; müessir, tesirli
+etkin, aktif, hareketli
+etkinlik, faaliyet
+etraf, çevre, dolay
+etraflı, ayrıntılı
+ev, konut
+evcil, ehli
+evcimen, aileperver
+evham, kuruntu, vehim, vesvese
+evla, iyi
+evlat, oğul, kız, soy
+evlatlık, besleme
+evlenme, izdivaç
+evkaf, vakıflar
+evliya, ermiş, eren, yatır, veli
+evrak, belge
+evre, aşama, safha
+evren, kainat, âlem, acun, cihan
+evrensel, cihanşümul
+evrim, tekâmül
+evsaf, vasıflar
+evvel, önce
+evvela, önce
+evvelki, önceki, ilk
+eylem, fiil, hareket, aksiyon
+eza, sıkıntı, işkence
+ezel, öncesizlik
+ezgi, nağme, melodi
+ezgin, ezik
+eziyet, sıkıntı, zahmet, işkence
+ezmek, yassıltmak, parçalamak, hırpalamak
+faal, çalışkan, hamarat, canlı, aktif, etkin
+faaliyet, çalışkanlık, hamaratlık, kıpırdanış, canlılık, etkinlik
+fahiş, aşırı
+fahri, onursal, karşılıksız, ücretsiz
+faik, üstün
+fail, eylemci
+fakat, yalnız, ama, lâkin
+fakir, yoksul, zavallı
+falso, gaf
+fani, ölümlü, kalımsız, geçici
+fantastik, hayali
+faraş, kürek
+faraziye, varsayım
+fark, ayrım
+farklı, değişik
+farksız, aynı, ayrımsız
+farz etmek, varsaymak
+fasafiso, havaciva, boş
+fasarya, boş, anlamsız
+fasıl, bölüm
+fasıla, aralık, ara
+fasılasız, biteviye, arasız, aralıksız
+fasih, açık
+fatih, fetheden
+fayda, yarar, çıkar
+faydalanmak, yararlanmak
+faydasız, yararsız
+fazilet, erdem
+fazla, çok, ziyade
+fecaat, çok acıklı
+feci, acıklı, trajik
+feda etmek, gözden çıkarmak, harcamak
+fedai, gönüllü, serdengeçti
+fedakâr, özverili
+fedakârlık, esirgemezlik, özveri
+felaket, yıkım, afet, kaza, bela
+felç, inme
+fena, kötü, üzücü
+fenalaşmak, ağırlaşmak, kötüleşmek
+fenalık, kötülük
+fent, hile, düzen
+feodalite, derebeylik
+fer, parlaklık, aydınlık, canlılık
+feragat, vazgeçme
+ferah, sıkıntısız, S€vinçli, geniş, iç açıcı
+feraset, anlayış, kavrayış
+ferda, yarın, gelecek, ati
+ferdi, şahsi, özel, bireysel, kişisel
+ferman, buyruk
+fersiz, donuk, cansız
+fert, birey
+feryat, haykırış, bağırış, çığlık
+fesat, bozukluk, ara, bozucu, karışıklık
+feshetmek, dağıtmak, kapatmak, kaldırmak, bozmak
+fethetmek, zapt etmek
+feveran, parlama
+fevkalade, olağanüstü, mükemmel
+feyz, verimlilik, gürlük, bolluk
+feza, uzay
+fırlamak, sıçramak
+fışkın, filiz, sürgün
+fıtri, doğuştan
+figan, çığlık
+fiil, eylem, iş, amel, davranış
+fikir, düşünce
+filika, sandal, kayık
+filiz, fışkın, sürgün
+filo, donanma, armada
+filozof, düşünür
+filtre, süzgeç
+final, bitiş
+firak, ayrılık
+firar, kaçma
+fire, eksilme
+firkat, ayrılık
+fistan, entari
+fitneci, karıştırıcı, gammaz
+fitnelemek, gammazlamak, karıştırmak
+fiyaka, gösteriş, çalım
+fiyat, eder, değer, bedel
+fiyatlı, pahalı
+fiyasko, başarısızlık, fos
+fiyort, körfez
+folklor, halk bilimi
+fonetik, ses bilimi
+form, biçim, şekil
+fos, çürük, temelsiz, boş
+fotometre, ışıkölçer
+frenlemek, engellemek, durdurmak
+fuar, panayır
+fukara, fakir, yoksul
+fuzuli, yersiz, gereksiz, boş
+fücceten, ansızın, birden bire
+fütuhat, fetihler
+fütur, bezginlik
+fütursuz, umursamaz
+füsunkâr, büyüleyici
+gabi, aptal, budala
+gaddar, acımasız, merhametsiz
+gaf, falso, pot
+gafil, ihtiyatsız, aymaz
+gaf yapmak, pot kırmak, çam devirmek
+gâh, bazen
+gaile, sıkıntı, dert, üzüntü
+galat, yanlış
+galeyan, coşma, kaynama
+galibiyet, yenme, yengi, zafer
+galip, yenen, üstün
+galiz, kaba
+gam, üzüntü, tasa
+gamlanmak, üzülmek
+gammaz, fitleyici, fitneci, çekiştirici
+gamsız, kedersiz, tasasız
+gangster, haydut, eşkiya
+gani, zengin
+gani gani, bol bol
+garabet, tuhaflık
+garanti, teminat, güvence
+garaz, düşmanlık
+garip, kimsesiz, yalnız, tuhaf
+garipsemek, yadırgamak
+garp, batı
+gâvur, dinsiz, merhametsiz, gaddar
+gaye, amaç, maksat
+gayet, pek, çok, pek çok
+gayret, emek
+gayretli, çalışkan
+gayrı, artık, bundan böyle
+gayri, başka, diğer
+gazal, ceylan, ahu
+gazap, öfke, kızgınlık
+gazve, savaş
+gazete, ceride
+gebermek, ölmek
+gecikme, rötar
+geçer, sürümlü, sayılı, ileri gelen, makbul, cari
+geçici, muvakkat, fani
+geçim, anlaşma, uyuşma, dirlik, maişet
+geçimsiz, huysuz, kavgacı
+geçinememek, anlaşamamak, uyuşamamak
